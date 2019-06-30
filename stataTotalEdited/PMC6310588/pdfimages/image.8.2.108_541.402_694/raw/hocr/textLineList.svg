@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="48.0" width="825.4" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g class="textLine">
+   <text x="199.0" y="38.0" class="text" boundingBox="((199.0,262.0),(22.0,38.0))" style="font-size:20.8px;font-style:bold;opacity:1.0;">.00126</text>
+   <text x="522.0" y="38.0" class="text" boundingBox="((522.0,529.0),(22.0,38.0))" style="font-size:20.8px;opacity:1.0;">1</text>
+   <text x="805.0" y="38.0" class="text" boundingBox="((805.0,839.0),(22.0,38.0))" style="font-size:20.8px;font-style:bold;opacity:1.0;">792</text>
+  </g>
+ </g>
+</svg>

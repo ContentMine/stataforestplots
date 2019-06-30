@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="102.0" width="1152.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.0,-4.0)" style="font-size:28.0px;" class="line">
+      <text x="5.0" y="37.0" style="font-size:7.0px;">21.0</text>
+      <rect x="5.0" y="37.0" width="1082.0" height="21.0" style="fill:darkgray;opacity:0.2;"/>
+      <g class="word" id="word_1_1"/>
+      <g id="word_1_2" class="word" x_wconf="85">
+       <rect x="29.0" y="37.0" width="61.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="29.0" y="51.7" class="text" style="font-size:16.153846153846153px;">Study</text>
+      </g>
+      <g id="word_1_3" class="word" x_wconf="93">
+       <rect x="1068.0" y="37.0" width="19.0" height="17.0" style="fill:green;opacity:0.2;"/>
+       <text x="1068.0" y="54.0" class="text" style="font-size:22.1px;">%</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_2">
+    <g class="para" id="par_1_2">
+     <g id="line_1_2" baseline="(0.0,-4.0)" style="font-size:28.0px;" class="line">
+      <text x="30.0" y="71.0" style="font-size:7.0px;">30.3</text>
+      <rect x="30.0" y="71.0" width="1112.0" height="21.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_4" class="word" x_wconf="93">
+       <rect x="30.0" y="72.0" width="21.0" height="16.0" style="fill:green;opacity:0.2;"/>
+       <text x="30.0" y="88.0" class="text" style="font-size:16.0px;">ID</text>
+      </g>
+      <g id="word_1_5" class="word" x_wconf="86">
+       <rect x="840.0" y="72.0" width="33.0" height="16.0" style="fill:green;opacity:0.2;"/>
+       <text x="840.0" y="88.0" class="text" style="font-size:16.0px;">HR</text>
+      </g>
+      <g id="word_1_6" class="word" x_wconf="86">
+       <rect x="882.0" y="71.0" width="53.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="882.0" y="85.7" class="text" style="font-size:16.153846153846153px;">(95%</text>
+      </g>
+      <g id="word_1_7" class="word" x_wconf="89">
+       <rect x="943.0" y="71.0" width="31.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="943.0" y="85.7" class="text" style="font-size:16.153846153846153px;">CI)</text>
+      </g>
+      <g id="word_1_8" class="word" x_wconf="72">
+       <rect x="1067.0" y="72.0" width="75.0" height="20.0" style="fill:green;opacity:0.2;"/>
+       <text x="1067.0" y="86.0" class="text" style="font-size:15.384615384615383px;">Weight</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

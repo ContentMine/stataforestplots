@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="1310.0" width="287.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="20.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="20.0" width="68.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_1" class="word" x_wconf="86">
+       <rect x="24.0" y="20.0" width="68.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="38.2" class="text" style="font-size:20.0px;font-style:bold;">Study</text>
+      </g>
+     </g>
+     <g id="line_1_2" baseline="(0.042,-1.0)" style="font-size:28.0px;" class="line">
+      <text x="25.0" y="49.0" style="font-size:7.0px;">27.5</text>
+      <rect x="25.0" y="49.0" width="24.0" height="21.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_2" class="word" x_wconf="94">
+       <rect x="25.0" y="49.0" width="24.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="25.0" y="70.0" class="text" style="font-size:21.0px;">ID</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_2">
+    <g class="para" id="par_1_2">
+     <g id="line_1_3" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="104.0" style="font-size:7.0px;">26.0</text>
+      <rect x="23.0" y="104.0" width="144.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_3" class="word" x_wconf="87">
+       <rect x="23.0" y="104.0" width="48.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="122.2" class="text" style="font-size:20.0px;">lung</text>
+      </g>
+      <g id="word_1_4" class="word" x_wconf="81">
+       <rect x="82.0" y="109.0" width="85.0" height="16.0" style="fill:green;opacity:0.2;"/>
+       <text x="82.0" y="125.0" class="text" style="font-size:20.8px;">cancer</text>
+      </g>
+     </g>
+     <g id="line_1_4" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="131.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="131.0" width="249.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_5" class="word" x_wconf="75">
+       <rect x="24.0" y="131.0" width="107.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="149.2" class="text" style="font-size:20.0px;">Bianrong</text>
+      </g>
+      <g id="word_1_6" class="word" x_wconf="89">
+       <rect x="142.0" y="131.0" width="42.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="142.0" y="152.0" class="text" style="font-size:21.0px;">Wu</text>
+      </g>
+      <g id="word_1_7" class="word" x_wconf="92">
+       <rect x="195.0" y="131.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="195.0" y="149.2" class="text" style="font-size:20.0px;">(2015)</text>
+      </g>
+     </g>
+     <g id="line_1_5" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="160.0" style="font-size:7.0px;">27.6</text>
+      <rect x="24.0" y="160.0" width="194.0" height="25.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_8" class="word" x_wconf="86">
+       <rect x="24.0" y="160.0" width="31.0" height="20.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="180.0" class="text" style="font-size:20.0px;">Ke</text>
+      </g>
+      <g id="word_1_9" class="word" x_wconf="87">
+       <rect x="66.0" y="160.0" width="62.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="66.0" y="177.5" class="text" style="font-size:19.23076923076923px;">Dong</text>
+      </g>
+      <g id="word_1_10" class="word" x_wconf="88">
+       <rect x="140.0" y="160.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="140.0" y="177.5" class="text" style="font-size:19.23076923076923px;">(2015)</text>
+      </g>
+     </g>
+     <g id="line_1_6" baseline="(0.004,-6.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="188.0" style="font-size:7.0px;">26.0</text>
+      <rect x="22.0" y="188.0" width="255.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_11" class="word" x_wconf="87">
+       <rect x="22.0" y="188.0" width="96.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="206.2" class="text" style="font-size:20.0px;">Zhihong</text>
+      </g>
+      <g id="word_1_12" class="word" x_wconf="87">
+       <rect x="130.0" y="188.0" width="58.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="130.0" y="206.2" class="text" style="font-size:20.0px;">Feng</text>
+      </g>
+      <g id="word_1_13" class="word" x_wconf="88">
+       <rect x="200.0" y="188.0" width="77.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="200.0" y="206.2" class="text" style="font-size:20.0px;">(2015)</text>
+      </g>
+     </g>
+     <g id="line_1_7" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="215.0" style="font-size:7.0px;">25.0</text>
+      <rect x="24.0" y="215.0" width="244.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_14" class="word" x_wconf="78">
+       <rect x="24.0" y="215.0" width="80.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="233.2" class="text" style="font-size:20.0px;">Siming</text>
+      </g>
+      <g id="word_1_15" class="word" x_wconf="87">
+       <rect x="116.0" y="215.0" width="62.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="116.0" y="236.0" class="text" style="font-size:21.0px;">Chen</text>
+      </g>
+      <g id="word_1_16" class="word" x_wconf="89">
+       <rect x="190.0" y="215.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="190.0" y="232.5" class="text" style="font-size:19.23076923076923px;">(2012)</text>
+      </g>
+     </g>
+     <g id="line_1_8" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="243.0" style="font-size:7.0px;">27.6</text>
+      <rect x="22.0" y="243.0" width="182.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_17" class="word" x_wconf="90">
+       <rect x="22.0" y="243.0" width="63.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="261.2" class="text" style="font-size:20.0px;">Zhijie</text>
+      </g>
+      <g id="word_1_18" class="word" x_wconf="84">
+       <rect x="96.0" y="243.0" width="19.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="96.0" y="264.0" class="text" style="font-size:21.0px;">Li</text>
+      </g>
+      <g id="word_1_19" class="word" x_wconf="86">
+       <rect x="126.0" y="243.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="126.0" y="261.2" class="text" style="font-size:20.0px;">(2006)</text>
+      </g>
+     </g>
+     <g id="line_1_9" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="270.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="270.0" width="236.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_20" class="word" x_wconf="89">
+       <rect x="24.0" y="270.0" width="64.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="291.0" class="text" style="font-size:21.0px;">Lidan</text>
+      </g>
+      <g id="word_1_21" class="word" x_wconf="86">
+       <rect x="98.0" y="270.0" width="72.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="98.0" y="288.2" class="text" style="font-size:20.0px;">Wang</text>
+      </g>
+      <g id="word_1_22" class="word" x_wconf="91">
+       <rect x="182.0" y="270.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="182.0" y="288.2" class="text" style="font-size:20.0px;">(2012)</text>
+      </g>
+     </g>
+     <g id="line_1_10" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="299.0" style="font-size:7.0px;">25.0</text>
+      <rect x="22.0" y="299.0" width="244.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_23" class="word" x_wconf="76">
+       <rect x="22.0" y="299.0" width="83.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="317.2" class="text" style="font-size:20.0px;">Yiming</text>
+      </g>
+      <g id="word_1_24" class="word" x_wconf="87">
+       <rect x="116.0" y="299.0" width="61.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="116.0" y="317.2" class="text" style="font-size:20.0px;">Kong</text>
+      </g>
+      <g id="word_1_25" class="word" x_wconf="89">
+       <rect x="188.0" y="299.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="188.0" y="316.5" class="text" style="font-size:19.23076923076923px;">(2012)</text>
+      </g>
+     </g>
+     <g id="line_1_11" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="328.0" style="font-size:7.0px;">27.6</text>
+      <rect x="23.0" y="328.0" width="254.0" height="25.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_26" class="word" x_wconf="76">
+       <rect x="23.0" y="328.0" width="87.0" height="20.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="348.0" class="text" style="font-size:20.0px;font-style:bold;">Jianbin</text>
+      </g>
+      <g id="word_1_27" class="word" x_wconf="83">
+       <rect x="120.0" y="328.0" width="73.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="120.0" y="345.5" class="text" style="font-size:19.23076923076923px;">Zhang</text>
+      </g>
+      <g id="word_1_28" class="word" x_wconf="21">
+       <rect x="205.0" y="328.0" width="72.0" height="25.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="205.0" y="345.5" class="text" style="fill:red;font-size:19.23076923076923px;opacity:0.147;">(2013‘</text>
+      </g>
+     </g>
+     <g id="line_1_12" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="354.0" style="font-size:7.0px;">27.6</text>
+      <rect x="24.0" y="354.0" width="209.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_29" class="word" x_wconf="89">
+       <rect x="24.0" y="354.0" width="61.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="372.2" class="text" style="font-size:20.0px;">Liujie</text>
+      </g>
+      <g id="word_1_30" class="word" x_wconf="86">
+       <rect x="96.0" y="354.0" width="48.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="96.0" y="375.0" class="text" style="font-size:21.0px;">Gao</text>
+      </g>
+      <g id="word_1_31" class="word" x_wconf="89">
+       <rect x="154.0" y="354.0" width="79.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="154.0" y="372.2" class="text" style="font-size:20.0px;">(2013)</text>
+      </g>
+     </g>
+     <g id="line_1_13" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="383.0" style="font-size:7.0px;">25.0</text>
+      <rect x="23.0" y="383.0" width="253.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_32" class="word" x_wconf="83">
+       <rect x="23.0" y="383.0" width="115.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="401.2" class="text" style="font-size:20.0px;">Guoqiang</text>
+      </g>
+      <g id="word_1_33" class="word" x_wconf="83">
+       <rect x="149.0" y="383.0" width="38.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="149.0" y="404.0" class="text" style="font-size:21.0px;">Shi</text>
+      </g>
+      <g id="word_1_34" class="word" x_wconf="87">
+       <rect x="198.0" y="383.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="198.0" y="400.5" class="text" style="font-size:19.23076923076923px;">(2007)</text>
+      </g>
+     </g>
+     <g id="line_1_14" baseline="(-0.004,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="410.0" style="font-size:7.0px;">27.0</text>
+      <rect x="22.0" y="410.0" width="254.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_35" class="word" x_wconf="87">
+       <rect x="22.0" y="410.0" width="82.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="428.2" class="text" style="font-size:20.0px;">Yanjun</text>
+      </g>
+      <g id="word_1_36" class="word" x_wconf="84">
+       <rect x="114.0" y="410.0" width="73.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="114.0" y="428.2" class="text" style="font-size:20.0px;">Wang</text>
+      </g>
+      <g id="word_1_37" class="word" x_wconf="91">
+       <rect x="198.0" y="410.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="198.0" y="427.5" class="text" style="font-size:19.23076923076923px;">(2009)</text>
+      </g>
+     </g>
+     <g id="line_1_15" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="438.0" style="font-size:7.0px;">27.6</text>
+      <rect x="22.0" y="438.0" width="186.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_38" class="word" x_wconf="76">
+       <rect x="22.0" y="438.0" width="55.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="459.0" class="text" style="font-size:21.0px;">Aihe</text>
+      </g>
+      <g id="word_1_39" class="word" x_wconf="88">
+       <rect x="86.0" y="438.0" width="33.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="86.0" y="459.0" class="text" style="font-size:21.0px;">Ye</text>
+      </g>
+      <g id="word_1_40" class="word" x_wconf="91">
+       <rect x="130.0" y="438.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="130.0" y="456.2" class="text" style="font-size:20.0px;">(2001)</text>
+      </g>
+     </g>
+     <g id="line_1_16" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="465.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="465.0" width="247.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_41" class="word" x_wconf="83">
+       <rect x="24.0" y="465.0" width="112.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="483.2" class="text" style="font-size:20.0px;">Shuntong</text>
+      </g>
+      <g id="word_1_42" class="word" x_wconf="80">
+       <rect x="148.0" y="465.0" width="34.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="148.0" y="486.0" class="text" style="font-size:21.0px;">Lin</text>
+      </g>
+      <g id="word_1_43" class="word" x_wconf="86">
+       <rect x="194.0" y="465.0" width="77.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="194.0" y="483.2" class="text" style="font-size:20.0px;">(1996)</text>
+      </g>
+     </g>
+     <g id="line_1_17" baseline="(-0.004,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="494.0" style="font-size:7.0px;">27.0</text>
+      <rect x="22.0" y="494.0" width="255.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_44" class="word" x_wconf="84">
+       <rect x="22.0" y="494.0" width="97.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="515.0" class="text" style="font-size:21.0px;">Subtotal</text>
+      </g>
+      <g id="word_1_45" class="word" x_wconf="82">
+       <rect x="138.0" y="494.0" width="139.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="138.0" y="512.2" class="text" style="font-size:20.0px;">(I-squared:</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_3">
+    <g class="para" id="par_1_3">
+     <g id="line_1_18" baseline="(0.0,0.0)" style="font-size:28.0px;" class="line">
+      <text x="23.0" y="549.0" style="font-size:7.0px;">26.5</text>
+      <rect x="23.0" y="549.0" width="161.0" height="21.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_46" class="word" x_wconf="80">
+       <rect x="23.0" y="549.0" width="67.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="570.0" class="text" style="font-size:21.0px;">Other</text>
+      </g>
+      <g id="word_1_47" class="word" x_wconf="81">
+       <rect x="99.0" y="554.0" width="85.0" height="16.0" style="fill:green;opacity:0.2;"/>
+       <text x="99.0" y="570.0" class="text" style="font-size:20.8px;">cancer</text>
+      </g>
+     </g>
+     <g id="line_1_19" baseline="(0.0,-6.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="578.0" style="font-size:7.0px;">25.0</text>
+      <rect x="23.0" y="578.0" width="230.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_48" class="word" x_wconf="81">
+       <rect x="23.0" y="578.0" width="110.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="596.2" class="text" style="font-size:20.0px;">Jianpeng</text>
+      </g>
+      <g id="word_1_49" class="word" x_wconf="95">
+       <rect x="144.0" y="578.0" width="19.0" height="20.0" style="fill:green;opacity:0.2;"/>
+       <text x="144.0" y="598.0" class="text" style="font-size:20.0px;">Li</text>
+      </g>
+      <g id="word_1_50" class="word" x_wconf="87">
+       <rect x="174.0" y="578.0" width="79.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="174.0" y="595.5" class="text" style="font-size:19.23076923076923px;">(2014)</text>
+      </g>
+     </g>
+     <g id="line_1_20" baseline="(0.004,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="604.0" style="font-size:7.0px;">25.0</text>
+      <rect x="22.0" y="604.0" width="228.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_51" class="word" x_wconf="78">
+       <rect x="22.0" y="604.0" width="55.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="625.0" class="text" style="font-size:21.0px;">Yihe</text>
+      </g>
+      <g id="word_1_52" class="word" x_wconf="86">
+       <rect x="86.0" y="605.0" width="74.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="86.0" y="622.5" class="text" style="font-size:19.23076923076923px;">Zhang</text>
+      </g>
+      <g id="word_1_53" class="word" x_wconf="86">
+       <rect x="172.0" y="604.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="172.0" y="622.2" class="text" style="font-size:20.0px;">(2016)</text>
+      </g>
+     </g>
+     <g id="line_1_21" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="633.0" style="font-size:7.0px;">26.0</text>
+      <rect x="23.0" y="633.0" width="181.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_54" class="word" x_wconf="83">
+       <rect x="23.0" y="633.0" width="49.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="651.2" class="text" style="font-size:20.0px;font-style:bold;">Jing</text>
+      </g>
+      <g id="word_1_55" class="word" x_wconf="86">
+       <rect x="84.0" y="633.0" width="31.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="84.0" y="654.0" class="text" style="font-size:21.0px;">Su</text>
+      </g>
+      <g id="word_1_56" class="word" x_wconf="82">
+       <rect x="126.0" y="633.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="126.0" y="651.2" class="text" style="font-size:20.0px;">(2014)</text>
+      </g>
+     </g>
+    </g>
+    <g class="para" id="par_1_4">
+     <g id="line_1_22" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="662.0" style="font-size:7.0px;">27.5</text>
+      <rect x="22.0" y="662.0" width="179.0" height="25.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_57" class="word" x_wconf="81">
+       <rect x="22.0" y="662.0" width="44.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="683.0" class="text" style="font-size:21.0px;">Zen</text>
+      </g>
+      <g id="word_1_58" class="word" x_wconf="90">
+       <rect x="78.0" y="662.0" width="33.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="78.0" y="683.0" class="text" style="font-size:21.0px;">Liu</text>
+      </g>
+      <g id="word_1_59" class="word" x_wconf="87">
+       <rect x="123.0" y="662.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="123.0" y="679.5" class="text" style="font-size:19.23076923076923px;">(2016)</text>
+      </g>
+     </g>
+    </g>
+    <g class="para" id="par_1_5">
+     <g id="line_1_23" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="688.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="688.0" width="232.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_60" class="word" x_wconf="87">
+       <rect x="24.0" y="688.0" width="60.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="706.2" class="text" style="font-size:20.0px;">Hong</text>
+      </g>
+      <g id="word_1_61" class="word" x_wconf="85">
+       <rect x="94.0" y="688.0" width="73.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="94.0" y="706.2" class="text" style="font-size:20.0px;">Wang</text>
+      </g>
+      <g id="word_1_62" class="word" x_wconf="90">
+       <rect x="178.0" y="688.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="178.0" y="706.2" class="text" style="font-size:20.0px;">(2007)</text>
+      </g>
+     </g>
+     <g id="line_1_24" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="717.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="717.0" width="253.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_63" class="word" x_wconf="81">
+       <rect x="24.0" y="717.0" width="101.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="735.2" class="text" style="font-size:20.0px;">Lianping</text>
+      </g>
+      <g id="word_1_64" class="word" x_wconf="81">
+       <rect x="136.0" y="717.0" width="64.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="136.0" y="735.2" class="text" style="font-size:20.0px;">Jiang</text>
+      </g>
+      <g id="word_1_65" class="word" x_wconf="87">
+       <rect x="212.0" y="717.0" width="65.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="212.0" y="735.2" class="text" style="font-size:20.0px;">(2009</text>
+      </g>
+     </g>
+     <g id="line_1_25" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="744.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="744.0" width="236.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_66" class="word" x_wconf="84">
+       <rect x="24.0" y="744.0" width="112.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="762.2" class="text" style="font-size:20.0px;">Fangfang</text>
+      </g>
+      <g id="word_1_67" class="word" x_wconf="87">
+       <rect x="148.0" y="744.0" width="22.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="148.0" y="765.0" class="text" style="font-size:21.0px;">Si</text>
+      </g>
+      <g id="word_1_68" class="word" x_wconf="88">
+       <rect x="182.0" y="744.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="182.0" y="762.2" class="text" style="font-size:20.0px;">(2015)</text>
+      </g>
+     </g>
+     <g id="line_1_26" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="772.0" style="font-size:7.0px;">26.0</text>
+      <rect x="22.0" y="772.0" width="196.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_69" class="word" x_wconf="86">
+       <rect x="22.0" y="772.0" width="47.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="793.0" class="text" style="font-size:21.0px;">Yan</text>
+      </g>
+      <g id="word_1_70" class="word" x_wconf="69">
+       <rect x="80.0" y="772.0" width="49.0" height="22.0" style="fill:green;opacity:0.2;"/>
+       <text x="80.0" y="794.0" class="text" style="font-size:28.6px;">630</text>
+      </g>
+      <g id="word_1_71" class="word" x_wconf="90">
+       <rect x="140.0" y="772.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="140.0" y="790.2" class="text" style="font-size:20.0px;">(2010)</text>
+      </g>
+     </g>
+     <g id="line_1_27" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="801.0" style="font-size:7.0px;">26.0</text>
+      <rect x="23.0" y="801.0" width="254.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_72" class="word" x_wconf="88">
+       <rect x="23.0" y="801.0" width="80.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="822.0" class="text" style="font-size:21.0px;">Jichun</text>
+      </g>
+      <g id="word_1_73" class="word" x_wconf="90">
+       <rect x="113.0" y="801.0" width="74.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="113.0" y="819.2" class="text" style="font-size:20.0px;">Zhong</text>
+      </g>
+      <g id="word_1_74" class="word" x_wconf="87">
+       <rect x="198.0" y="801.0" width="79.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="198.0" y="819.2" class="text" style="font-size:20.0px;">(2011)</text>
+      </g>
+     </g>
+     <g id="line_1_28" baseline="(0.0,-6.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="828.0" style="font-size:7.0px;">26.0</text>
+      <rect x="22.0" y="828.0" width="234.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_75" class="word" x_wconf="82">
+       <rect x="22.0" y="828.0" width="62.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="849.0" class="text" style="font-size:21.0px;">Aifen</text>
+      </g>
+      <g id="word_1_76" class="word" x_wconf="83">
+       <rect x="94.0" y="828.0" width="73.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="94.0" y="846.2" class="text" style="font-size:20.0px;">Wang</text>
+      </g>
+      <g id="word_1_77" class="word" x_wconf="90">
+       <rect x="178.0" y="828.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="178.0" y="846.2" class="text" style="font-size:20.0px;">(2011)</text>
+      </g>
+     </g>
+     <g id="line_1_29" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="856.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="856.0" width="252.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_78" class="word" x_wconf="84">
+       <rect x="24.0" y="856.0" width="90.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="874.2" class="text" style="font-size:20.0px;">Boquan</text>
+      </g>
+      <g id="word_1_79" class="word" x_wconf="83">
+       <rect x="125.0" y="856.0" width="62.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="125.0" y="874.2" class="text" style="font-size:20.0px;">Yang</text>
+      </g>
+      <g id="word_1_80" class="word" x_wconf="90">
+       <rect x="198.0" y="856.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="198.0" y="874.2" class="text" style="font-size:20.0px;">(2000)</text>
+      </g>
+     </g>
+     <g id="line_1_30" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="883.0" style="font-size:7.0px;">27.5</text>
+      <rect x="23.0" y="883.0" width="159.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_81" class="word" x_wconf="86">
+       <rect x="23.0" y="884.0" width="34.0" height="20.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="904.0" class="text" style="font-size:20.0px;">Jin</text>
+      </g>
+      <g id="word_1_82" class="word" x_wconf="84">
+       <rect x="68.0" y="883.0" width="25.0" height="22.0" style="fill:green;opacity:0.2;"/>
+       <text x="68.0" y="905.0" class="text" style="font-size:22.0px;">Qi</text>
+      </g>
+      <g id="word_1_83" class="word" x_wconf="91">
+       <rect x="104.0" y="883.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="104.0" y="901.2" class="text" style="font-size:20.0px;">(2011)</text>
+      </g>
+     </g>
+     <g id="line_1_31" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="912.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="912.0" width="241.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_84" class="word" x_wconf="82">
+       <rect x="24.0" y="912.0" width="94.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="930.2" class="text" style="font-size:20.0px;">Lanying</text>
+      </g>
+      <g id="word_1_85" class="word" x_wconf="90">
+       <rect x="129.0" y="912.0" width="46.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="129.0" y="933.0" class="text" style="font-size:21.0px;">Sun</text>
+      </g>
+      <g id="word_1_86" class="word" x_wconf="88">
+       <rect x="187.0" y="912.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="187.0" y="930.2" class="text" style="font-size:20.0px;">(2012)</text>
+      </g>
+     </g>
+     <g id="line_1_32" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="940.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="940.0" width="212.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_87" class="word" x_wconf="84">
+       <rect x="24.0" y="940.0" width="77.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="958.2" class="text" style="font-size:20.0px;">Chang</text>
+      </g>
+      <g id="word_1_88" class="word" x_wconf="89">
+       <rect x="113.0" y="940.0" width="33.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="113.0" y="961.0" class="text" style="font-size:21.0px;">Liu</text>
+      </g>
+      <g id="word_1_89" class="word" x_wconf="90">
+       <rect x="158.0" y="940.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="158.0" y="958.2" class="text" style="font-size:20.0px;">(2011)</text>
+      </g>
+     </g>
+     <g id="line_1_33" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="967.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="967.0" width="207.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_90" class="word" x_wconf="89">
+       <rect x="24.0" y="967.0" width="48.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="985.2" class="text" style="font-size:20.0px;">Ling</text>
+      </g>
+      <g id="word_1_91" class="word" x_wconf="88">
+       <rect x="83.0" y="967.0" width="59.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="83.0" y="988.0" class="text" style="font-size:21.0px;">Zhou</text>
+      </g>
+      <g id="word_1_92" class="word" x_wconf="92">
+       <rect x="153.0" y="967.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="153.0" y="985.2" class="text" style="font-size:20.0px;">(2012)</text>
+      </g>
+     </g>
+     <g id="line_1_34" baseline="(0.004,-6.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="996.0" style="font-size:7.0px;">27.0</text>
+      <rect x="23.0" y="996.0" width="254.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_93" class="word" x_wconf="86">
+       <rect x="23.0" y="996.0" width="102.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="1014.2" class="text" style="font-size:20.0px;">Jianqing</text>
+      </g>
+      <g id="word_1_94" class="word" x_wconf="89">
+       <rect x="136.0" y="996.0" width="62.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="136.0" y="1017.0" class="text" style="font-size:21.0px;">Chen</text>
+      </g>
+      <g id="word_1_95" class="word" x_wconf="84">
+       <rect x="210.0" y="996.0" width="67.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="210.0" y="1013.5" class="text" style="font-size:19.23076923076923px;">(2004</text>
+      </g>
+     </g>
+     <g id="line_1_35" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="1023.0" style="font-size:7.0px;">25.0</text>
+      <rect x="23.0" y="1023.0" width="237.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_96" class="word" x_wconf="87">
+       <rect x="23.0" y="1023.0" width="108.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="1041.2" class="text" style="font-size:20.0px;">Jianming</text>
+      </g>
+      <g id="word_1_97" class="word" x_wconf="93">
+       <rect x="143.0" y="1023.0" width="27.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="143.0" y="1044.0" class="text" style="font-size:21.0px;">Lu</text>
+      </g>
+      <g id="word_1_98" class="word" x_wconf="91">
+       <rect x="182.0" y="1023.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="182.0" y="1040.5" class="text" style="font-size:19.23076923076923px;">(2011)</text>
+      </g>
+     </g>
+     <g id="line_1_36" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="1051.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="1051.0" width="229.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_99" class="word" x_wconf="75">
+       <rect x="24.0" y="1051.0" width="52.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="1069.2" class="text" style="font-size:20.0px;">Ping</text>
+      </g>
+      <g id="word_1_100" class="word" x_wconf="86">
+       <rect x="88.0" y="1051.0" width="75.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="88.0" y="1069.2" class="text" style="font-size:20.0px;">Huang</text>
+      </g>
+      <g id="word_1_101" class="word" x_wconf="91">
+       <rect x="174.0" y="1051.0" width="79.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="174.0" y="1069.2" class="text" style="font-size:20.0px;">(2000)</text>
+      </g>
+     </g>
+     <g id="line_1_37" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="1078.0" style="font-size:7.0px;">26.0</text>
+      <rect x="24.0" y="1078.0" width="224.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_102" class="word" x_wconf="75">
+       <rect x="24.0" y="1078.0" width="52.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="1096.2" class="text" style="font-size:20.0px;">Ping</text>
+      </g>
+      <g id="word_1_103" class="word" x_wconf="89">
+       <rect x="86.0" y="1078.0" width="72.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="86.0" y="1096.2" class="text" style="font-size:20.0px;">Wang</text>
+      </g>
+      <g id="word_1_104" class="word" x_wconf="92">
+       <rect x="170.0" y="1078.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="170.0" y="1096.2" class="text" style="font-size:20.0px;">(2002)</text>
+      </g>
+     </g>
+     <g id="line_1_38" baseline="(0.0,-4.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="1106.0" style="font-size:7.0px;">27.5</text>
+      <rect x="24.0" y="1106.0" width="185.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_105" class="word" x_wconf="82">
+       <rect x="24.0" y="1107.0" width="52.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="1128.0" class="text" style="font-size:21.0px;">Lixin</text>
+      </g>
+      <g id="word_1_106" class="word" x_wconf="88">
+       <rect x="87.0" y="1106.0" width="33.0" height="22.0" style="fill:green;opacity:0.2;"/>
+       <text x="87.0" y="1128.0" class="text" style="font-size:22.0px;">Gu</text>
+      </g>
+      <g id="word_1_107" class="word" x_wconf="84">
+       <rect x="131.0" y="1107.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="131.0" y="1124.5" class="text" style="font-size:19.23076923076923px;">(2003)</text>
+      </g>
+     </g>
+     <g id="line_1_39" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="1135.0" style="font-size:7.0px;">26.0</text>
+      <rect x="22.0" y="1135.0" width="253.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_108" class="word" x_wconf="75">
+       <rect x="22.0" y="1135.0" width="98.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="1153.2" class="text" style="font-size:20.0px;">Youjuan</text>
+      </g>
+      <g id="word_1_109" class="word" x_wconf="85">
+       <rect x="130.0" y="1136.0" width="65.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="130.0" y="1153.5" class="text" style="font-size:19.23076923076923px;font-style:bold;">Jiang</text>
+      </g>
+      <g id="word_1_110" class="word" x_wconf="89">
+       <rect x="207.0" y="1135.0" width="68.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="207.0" y="1153.2" class="text" style="font-size:20.0px;">(1997</text>
+      </g>
+     </g>
+     <g id="line_1_40" baseline="(0.0,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="22.0" y="1162.0" style="font-size:7.0px;">27.5</text>
+      <rect x="22.0" y="1162.0" width="204.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_111" class="word" x_wconf="71">
+       <rect x="22.0" y="1162.0" width="66.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="22.0" y="1183.0" class="text" style="font-size:21.0px;">Xianti</text>
+      </g>
+      <g id="word_1_112" class="word" x_wconf="86">
+       <rect x="100.0" y="1162.0" width="36.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="100.0" y="1183.0" class="text" style="font-size:21.0px;">Bai</text>
+      </g>
+      <g id="word_1_113" class="word" x_wconf="89">
+       <rect x="148.0" y="1162.0" width="78.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="148.0" y="1180.2" class="text" style="font-size:20.0px;">(2005)</text>
+      </g>
+     </g>
+     <g id="line_1_41" baseline="(0.0,-4.0)" style="font-size:30.0px;" class="line">
+      <text x="24.0" y="1191.0" style="font-size:7.0px;">25.0</text>
+      <rect x="24.0" y="1191.0" width="212.0" height="25.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_114" class="word" x_wconf="87">
+       <rect x="24.0" y="1191.0" width="77.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="24.0" y="1208.5" class="text" style="font-size:19.23076923076923px;">Chang</text>
+      </g>
+      <g id="word_1_115" class="word" x_wconf="89">
+       <rect x="113.0" y="1191.0" width="33.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="113.0" y="1212.0" class="text" style="font-size:21.0px;">Liu</text>
+      </g>
+      <g id="word_1_116" class="word" x_wconf="87">
+       <rect x="158.0" y="1191.0" width="78.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="158.0" y="1208.5" class="text" style="font-size:19.23076923076923px;">(2011)</text>
+      </g>
+     </g>
+     <g id="line_1_42" baseline="(0.0,-6.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="1218.0" style="font-size:7.0px;">26.0</text>
+      <rect x="23.0" y="1218.0" width="254.0" height="26.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_117" class="word" x_wconf="85">
+       <rect x="23.0" y="1218.0" width="96.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="1239.0" class="text" style="font-size:21.0px;">Subtotal</text>
+      </g>
+      <g id="word_1_118" class="word" x_wconf="84">
+       <rect x="138.0" y="1218.0" width="139.0" height="26.0" style="fill:green;opacity:0.2;"/>
+       <text x="138.0" y="1236.2" class="text" style="font-size:20.0px;">(I-squared=</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_4">
+    <g class="para" id="par_1_6">
+     <g id="line_1_43" baseline="(0.0,-4.0)" style="font-size:30.0px;" class="line">
+      <text x="23.0" y="1275.0" style="font-size:7.0px;">25.0</text>
+      <rect x="23.0" y="1275.0" width="249.0" height="25.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_119" class="word" x_wconf="85">
+       <rect x="23.0" y="1275.0" width="81.0" height="21.0" style="fill:green;opacity:0.2;"/>
+       <text x="23.0" y="1296.0" class="text" style="font-size:21.0px;">Overall</text>
+      </g>
+      <g id="word_1_120" class="word" x_wconf="85">
+       <rect x="122.0" y="1275.0" width="125.0" height="25.0" style="fill:green;opacity:0.2;"/>
+       <text x="122.0" y="1292.5" class="text" style="font-size:19.23076923076923px;">(I-squared</text>
+      </g>
+      <g id="word_1_121" class="word" x_wconf="94">
+       <rect x="258.0" y="1281.0" width="14.0" height="9.0" style="fill:green;opacity:0.2;"/>
+       <text x="258.0" y="1290.0" class="text" style="font-size:11.700000000000001px;font-style:italic;">=</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

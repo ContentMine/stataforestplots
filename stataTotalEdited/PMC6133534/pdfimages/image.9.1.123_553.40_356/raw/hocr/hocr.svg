@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="851.0" width="1176.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.041,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="170.0" style="font-size:7.0px;">20.0</text>
+      <rect x="48.0" y="170.0" width="49.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_1" class="word" x_wconf="68">
+       <rect x="48.0" y="170.0" width="49.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="184.0" class="text" style="font-size:14.0px;font-style:bold;">Em</text>
+      </g>
+     </g>
+     <g id="line_1_2" baseline="(0.025,-2.0)" style="font-size:20.0px;" class="line">
+      <text x="47.0" y="200.0" style="font-size:7.0px;">16.0</text>
+      <rect x="47.0" y="200.0" width="79.0" height="13.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_2" class="word" x_wconf="71">
+       <rect x="47.0" y="200.0" width="30.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="47.0" y="211.0" class="text" style="font-size:11.0px;font-style:bold;">M-</text>
+      </g>
+      <g id="word_1_3" class="word" x_wconf="60">
+       <rect x="81.0" y="200.0" width="45.0" height="13.0" style="fill:green;opacity:0.2;"/>
+       <text x="81.0" y="209.1" class="text" style="font-size:10.0px;font-style:bold;">(MID</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_2">
+    <g class="para" id="par_1_2">
+     <g id="line_1_3" baseline="(-0.006,0.0)" style="font-size:22.0px;" class="line">
+      <text x="47.0" y="229.0" style="font-size:7.0px;">24.3</text>
+      <rect x="47.0" y="229.0" width="464.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_4" class="word" x_wconf="63">
+       <rect x="47.0" y="229.0" width="76.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="47.0" y="244.0" class="text" style="font-size:15.0px;font-style:bold;">“Wu</text>
+      </g>
+      <g id="word_1_5" class="word" x_wconf="62">
+       <rect x="128.0" y="229.0" width="45.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="128.0" y="243.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">won</text>
+      </g>
+      <g id="word_1_6" class="word" x_wconf="53">
+       <rect x="273.0" y="229.0" width="238.0" height="13.0" style="fill:green;opacity:0.2;"/>
+       <text x="273.0" y="242.0" class="text" style="font-size:16.900000000000002px;font-style:bold;">—0—</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_3">
+    <g class="para" id="par_1_3">
+     <g id="line_1_4" baseline="(-0.006,0.0)" style="font-size:22.0px;" class="line">
+      <text x="48.0" y="258.0" style="font-size:7.0px;">22.0</text>
+      <rect x="48.0" y="258.0" width="162.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_7" class="word" x_wconf="63">
+       <rect x="48.0" y="258.0" width="162.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="273.0" class="text" style="font-size:19.5px;font-style:bold;">wmw-moz»</text>
+      </g>
+     </g>
+     <g id="line_1_5" baseline="(0.019,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="288.0" style="font-size:7.0px;">19.5</text>
+      <rect x="48.0" y="288.0" width="107.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_8" class="word" x_wconf="62">
+       <rect x="48.0" y="288.0" width="107.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="302.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">mm</text>
+      </g>
+     </g>
+    </g>
+    <g class="para" id="par_1_4">
+     <g id="line_1_6" baseline="(-0.009,0.0)" style="font-size:22.0px;" class="line">
+      <text x="48.0" y="317.0" style="font-size:7.0px;">22.5</text>
+      <rect x="48.0" y="317.0" width="110.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_9" class="word" x_wconf="55">
+       <rect x="48.0" y="317.0" width="110.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="327.5" class="text" style="font-size:11.538461538461538px;font-style:bold;">Miran)</text>
+      </g>
+     </g>
+    </g>
+    <g class="para" id="par_1_5">
+     <g id="line_1_7" baseline="(0.025,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="347.0" style="font-size:7.0px;">16.0</text>
+      <rect x="48.0" y="347.0" width="79.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_10" class="word" x_wconf="64">
+       <rect x="48.0" y="347.0" width="79.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="356.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">Elam)</text>
+      </g>
+     </g>
+    </g>
+    <g class="para" id="par_1_6">
+     <g id="line_1_8" baseline="(0.004,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="376.0" style="font-size:7.0px;">22.0</text>
+      <rect x="48.0" y="376.0" width="233.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_11" class="word" x_wconf="65">
+       <rect x="48.0" y="376.0" width="90.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="388.0" class="text" style="font-size:12.0px;font-style:bold;">MW</text>
+      </g>
+      <g id="word_1_12" class="word" x_wconf="63">
+       <rect x="147.0" y="376.0" width="101.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="147.0" y="390.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">mm”!</text>
+      </g>
+      <g id="word_1_13" class="word" x_wconf="53">
+       <rect x="254.0" y="376.0" width="27.0" height="13.0" style="fill:green;opacity:0.2;"/>
+       <text x="254.0" y="389.0" class="text" style="font-size:16.900000000000002px;font-style:bold;">ox.</text>
+      </g>
+     </g>
+     <g id="line_1_9" baseline="(0.011,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="48.0" y="406.0" style="font-size:7.0px;">22.0</text>
+      <rect x="48.0" y="406.0" width="90.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_14" class="word" x_wconf="62">
+       <rect x="48.0" y="406.0" width="90.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="418.0" class="text" style="font-size:12.0px;font-style:bold;">MW</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_4">
+    <g class="para" id="par_1_7">
+     <g id="line_1_10" baseline="(0.035,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="300.0" y="376.0" style="font-size:7.0px;">17.3</text>
+      <rect x="300.0" y="376.0" width="57.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_15" class="word" x_wconf="63">
+       <rect x="300.0" y="376.0" width="57.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="300.0" y="390.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">wow</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_5">
+    <g class="para" id="par_1_8">
+     <g id="line_1_11" baseline="(0.0,484.0)" style="font-size:26.0px;" class="line">
+      <text x="282.0" y="375.0" style="font-size:7.0px;">25.0</text>
+      <rect x="282.0" y="375.0" width="17.0" height="19.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_16"/>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_6">
+    <g class="para" id="par_1_9">
+     <g id="line_1_12" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="47.0" y="464.0" style="font-size:7.0px;">22.8</text>
+      <rect x="47.0" y="464.0" width="45.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_17" class="word" x_wconf="64">
+       <rect x="47.0" y="464.0" width="45.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="47.0" y="476.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">om</text>
+      </g>
+     </g>
+     <g id="line_1_13" baseline="(0.0,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="47.0" y="494.0" style="font-size:7.0px;">22.8</text>
+      <rect x="47.0" y="494.0" width="82.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_18" class="word" x_wconf="64">
+       <rect x="47.0" y="494.0" width="82.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="47.0" y="503.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">meow)</text>
+      </g>
+     </g>
+     <g id="line_1_14" baseline="(-0.011,0.0)" style="font-size:22.0px;" class="line">
+      <text x="47.0" y="523.0" style="font-size:7.0px;">22.5</text>
+      <rect x="47.0" y="523.0" width="93.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_19" class="word" x_wconf="60">
+       <rect x="47.0" y="523.0" width="93.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="47.0" y="533.5" class="text" style="font-size:11.538461538461538px;font-style:bold;">mwmw)</text>
+      </g>
+     </g>
+     <g id="line_1_15" baseline="(0.0,0.0)" style="font-size:21.0px;" class="line">
+      <text x="47.0" y="553.0" style="font-size:7.0px;">18.5</text>
+      <rect x="47.0" y="553.0" width="65.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_20" class="word" x_wconf="69">
+       <rect x="47.0" y="553.0" width="65.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="47.0" y="567.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">mm</text>
+      </g>
+     </g>
+     <g id="line_1_16" baseline="(0.0,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="582.0" style="font-size:7.0px;">18.0</text>
+      <rect x="48.0" y="582.0" width="76.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_21" class="word" x_wconf="70">
+       <rect x="48.0" y="582.0" width="76.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="591.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">ham")</text>
+      </g>
+     </g>
+     <g id="line_1_17" baseline="(0.019,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="612.0" style="font-size:7.0px;">22.8</text>
+      <rect x="48.0" y="612.0" width="104.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_22" class="word" x_wconf="50">
+       <rect x="48.0" y="612.0" width="104.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="626.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">mm!”</text>
+      </g>
+     </g>
+     <g id="line_1_18" baseline="(0.0,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="641.0" style="font-size:7.0px;">22.8</text>
+      <rect x="48.0" y="641.0" width="309.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_23" class="word" x_wconf="67">
+       <rect x="48.0" y="641.0" width="90.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="653.0" class="text" style="font-size:12.0px;font-style:bold;">MW</text>
+      </g>
+      <g id="word_1_24" class="word" x_wconf="58">
+       <rect x="147.0" y="641.0" width="210.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="147.0" y="655.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">mm-ua..-oom</text>
+      </g>
+     </g>
+     <g id="line_1_19" baseline="(0.0,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="48.0" y="671.0" style="font-size:7.0px;">22.8</text>
+      <rect x="48.0" y="671.0" width="90.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_25" class="word" x_wconf="64">
+       <rect x="48.0" y="671.0" width="90.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="683.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">mam</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_7">
+    <g class="para" id="par_1_10">
+     <g id="line_1_20" baseline="(-0.003,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="48.0" y="730.0" style="font-size:7.0px;">22.8</text>
+      <rect x="48.0" y="730.0" width="300.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_26" class="word" x_wconf="73">
+       <rect x="48.0" y="730.0" width="27.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="741.0" class="text" style="font-size:11.0px;font-style:bold;">M</text>
+      </g>
+      <g id="word_1_27" class="word" x_wconf="63">
+       <rect x="80.0" y="730.0" width="49.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="80.0" y="741.0" class="text" style="font-size:11.0px;font-style:bold;">Mn</text>
+      </g>
+      <g id="word_1_28" class="word" x_wconf="62">
+       <rect x="138.0" y="730.0" width="68.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="138.0" y="739.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">(Mau-Id</text>
+      </g>
+      <g id="word_1_29" class="word" x_wconf="55">
+       <rect x="211.0" y="730.0" width="61.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="211.0" y="742.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">nun.</text>
+      </g>
+      <g id="word_1_30" class="word" x_wconf="54">
+       <rect x="278.0" y="730.0" width="70.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="278.0" y="739.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">DREW!)</text>
+      </g>
+     </g>
+     <g id="line_1_21" baseline="(-0.012,0.0)" style="font-size:19.0px;" class="line">
+      <text x="48.0" y="759.0" style="font-size:7.0px;">13.2</text>
+      <rect x="48.0" y="759.0" width="81.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_31" class="word" x_wconf="63">
+       <rect x="48.0" y="759.0" width="81.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="771.0" class="text" style="font-size:12.0px;font-style:bold;">MM"</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_8">
+    <g class="para" id="par_1_11">
+     <g id="line_1_22" baseline="(0.0,-3.0)" style="font-size:22.0px;" class="line">
+      <text x="48.0" y="803.0" style="font-size:7.0px;">24.3</text>
+      <rect x="48.0" y="803.0" width="333.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_32" class="word" x_wconf="73">
+       <rect x="48.0" y="803.0" width="42.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="48.0" y="815.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">nor:</text>
+      </g>
+      <g id="word_1_33" class="word" x_wconf="56">
+       <rect x="98.0" y="803.0" width="283.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="98.0" y="818.0" class="text" style="font-size:15.0px;font-style:bold;">mw—Mmmmmm</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_9">
+    <g class="para" id="par_1_12">
+     <g id="line_1_23" baseline="(0.0,-2.0)" style="font-size:30.0px;" class="line">
+      <text x="500.0" y="163.0" style="font-size:7.0px;">40.3</text>
+      <rect x="500.0" y="163.0" width="226.0" height="31.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_34"/>
+     </g>
+     <g id="line_1_24" baseline="(0.0,-31.0)" style="font-size:30.0px;" class="line">
+      <text x="500.0" y="194.0" style="font-size:7.0px;">36.0</text>
+      <rect x="500.0" y="194.0" width="226.0" height="57.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_35"/>
+     </g>
+     <g id="line_1_25" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="505.0" y="251.0" style="font-size:7.0px;">40.3</text>
+      <rect x="505.0" y="251.0" width="201.0" height="30.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_36"/>
+     </g>
+     <g id="line_1_26" baseline="(0.0,569.0)" style="font-size:30.0px;" class="line">
+      <text x="505.0" y="281.0" style="font-size:7.0px;">40.3</text>
+      <rect x="505.0" y="281.0" width="201.0" height="28.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_37"/>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_10">
+    <g class="para" id="par_1_13">
+     <g id="line_1_27" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="442.0" y="310.0" style="font-size:7.0px;">51.5</text>
+      <rect x="442.0" y="310.0" width="154.0" height="30.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_38"/>
+     </g>
+     <g id="line_1_28" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="442.0" y="340.0" style="font-size:7.0px;">51.5</text>
+      <rect x="442.0" y="340.0" width="205.0" height="29.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_39"/>
+     </g>
+     <g id="line_1_29" baseline="(0.015,-3.0)" style="font-size:30.0px;" class="line">
+      <text x="442.0" y="369.0" style="font-size:7.0px;">51.5</text>
+      <rect x="442.0" y="369.0" width="205.0" height="31.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_40"/>
+     </g>
+     <g id="line_1_30" baseline="(0.041,-5.0)" style="font-size:30.0px;" class="line">
+      <text x="500.0" y="400.0" style="font-size:7.0px;">28.0</text>
+      <rect x="500.0" y="400.0" width="147.0" height="27.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_41"/>
+     </g>
+     <g id="line_1_31" baseline="(0.0,420.0)" style="font-size:30.0px;" class="line">
+      <text x="535.0" y="427.0" style="font-size:7.0px;">51.5</text>
+      <rect x="535.0" y="427.0" width="81.0" height="31.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_42"/>
+     </g>
+     <g id="line_1_32" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="438.0" y="487.0" style="font-size:7.0px;">51.5</text>
+      <rect x="438.0" y="487.0" width="170.0" height="29.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_43"/>
+     </g>
+     <g id="line_1_33" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="438.0" y="516.0" style="font-size:7.0px;">51.5</text>
+      <rect x="438.0" y="516.0" width="257.0" height="30.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_44"/>
+     </g>
+     <g id="line_1_34" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="355.0" y="546.0" style="font-size:7.0px;">51.5</text>
+      <rect x="355.0" y="546.0" width="340.0" height="29.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_45"/>
+     </g>
+     <g id="line_1_35" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="355.0" y="575.0" style="font-size:7.0px;">51.5</text>
+      <rect x="355.0" y="575.0" width="363.0" height="30.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_46"/>
+     </g>
+     <g id="line_1_36" baseline="(0.003,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="355.0" y="605.0" style="font-size:7.0px;">51.5</text>
+      <rect x="355.0" y="605.0" width="363.0" height="29.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_47"/>
+     </g>
+     <g id="line_1_37" baseline="(0.0,216.0)" style="font-size:30.0px;" class="line">
+      <text x="477.0" y="634.0" style="font-size:7.0px;">51.5</text>
+      <rect x="477.0" y="634.0" width="241.0" height="28.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_48"/>
+     </g>
+     <g id="line_1_38" baseline="(0.006,-33.0)" style="font-size:30.0px;" class="line">
+      <text x="489.0" y="662.0" style="font-size:7.0px;">29.1</text>
+      <rect x="489.0" y="662.0" width="163.0" height="61.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_49"/>
+     </g>
+     <g id="line_1_39" baseline="(0.0,-1.0)" style="font-size:30.0px;" class="line">
+      <text x="519.0" y="723.0" style="font-size:7.0px;">51.5</text>
+      <rect x="519.0" y="723.0" width="106.0" height="30.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_50"/>
+     </g>
+     <g id="line_1_40" baseline="(0.047,-4.0)" style="font-size:30.0px;" class="line">
+      <text x="519.0" y="753.0" style="font-size:7.0px;">26.9</text>
+      <rect x="519.0" y="753.0" width="106.0" height="27.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_51"/>
+     </g>
+     <g id="line_1_41" baseline="(0.0,0.0)" style="font-size:30.0px;" class="line">
+      <text x="29.0" y="780.0" style="font-size:7.0px;">50.4</text>
+      <rect x="29.0" y="780.0" width="1137.0" height="45.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_52"/>
+      <g class="word" id="word_1_53"/>
+     </g>
+     <g id="line_1_42" baseline="(0.0,37.0)" style="font-size:23.0px;" class="line">
+      <text x="29.0" y="825.0" style="font-size:7.0px;">11.2</text>
+      <rect x="29.0" y="825.0" width="1137.0" height="16.0" style="fill:orange;opacity:0.2;"/>
+      <g class="word" id="word_1_54"/>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_11">
+    <g class="para" id="par_1_14">
+     <g id="line_1_43" baseline="(0.0,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="200.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="200.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_55" class="word" x_wconf="67">
+       <rect x="793.0" y="200.0" width="5.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="211.0" class="text" style="font-size:14.3px;font-style:bold;">1</text>
+      </g>
+      <g id="word_1_56" class="word" x_wconf="74">
+       <rect x="802.0" y="200.0" width="20.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="802.0" y="211.0" class="text" style="font-size:14.3px;font-style:bold;">.sn</text>
+      </g>
+      <g id="word_1_57" class="word" x_wconf="69">
+       <rect x="826.0" y="200.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="209.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">p.15.</text>
+      </g>
+      <g id="word_1_58" class="word" x_wconf="65">
+       <rect x="871.0" y="200.0" width="36.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="209.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">us)</text>
+      </g>
+     </g>
+     <g id="line_1_44" baseline="(0.017,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="791.0" y="229.0" style="font-size:7.0px;">23.5</text>
+      <rect x="791.0" y="229.0" width="116.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_59" class="word" x_wconf="57">
+       <rect x="791.0" y="229.0" width="32.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="791.0" y="241.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">a.»</text>
+      </g>
+      <g id="word_1_60" class="word" x_wconf="60">
+       <rect x="826.0" y="229.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="243.0" class="text" style="font-size:14.0px;font-style:bold;">DJ».</text>
+      </g>
+      <g id="word_1_61" class="word" x_wconf="74">
+       <rect x="870.0" y="229.0" width="37.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="870.0" y="238.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">0.1-)</text>
+      </g>
+     </g>
+     <g id="line_1_45" baseline="(0.018,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="258.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="258.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_62" class="word" x_wconf="70">
+       <rect x="793.0" y="258.0" width="28.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="270.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">1.51</text>
+      </g>
+      <g id="word_1_63" class="word" x_wconf="60">
+       <rect x="826.0" y="258.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="272.0" class="text" style="font-size:18.200000000000003px;font-style:italic;">9.11.</text>
+      </g>
+      <g id="word_1_64" class="word" x_wconf="59">
+       <rect x="871.0" y="258.0" width="36.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="267.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">z»)</text>
+      </g>
+     </g>
+     <g id="line_1_46" baseline="(0.0,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="792.0" y="288.0" style="font-size:7.0px;">23.5</text>
+      <rect x="792.0" y="288.0" width="115.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_65" class="word" x_wconf="79">
+       <rect x="792.0" y="288.0" width="30.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="792.0" y="300.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">m</text>
+      </g>
+      <g id="word_1_66" class="word" x_wconf="75">
+       <rect x="826.0" y="288.0" width="12.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="297.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">(1</text>
+      </g>
+      <g id="word_1_67" class="word" x_wconf="73">
+       <rect x="841.0" y="288.0" width="11.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="841.0" y="299.0" class="text" style="font-size:14.3px;font-style:bold;">.1</text>
+      </g>
+      <g id="word_1_68" class="word" x_wconf="75">
+       <rect x="855.0" y="288.0" width="11.0" height="13.0" style="fill:green;opacity:0.2;"/>
+       <text x="855.0" y="301.0" class="text" style="font-size:16.900000000000002px;font-style:bold;">1,</text>
+      </g>
+      <g id="word_1_69" class="word" x_wconf="69">
+       <rect x="871.0" y="288.0" width="36.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="302.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">un</text>
+      </g>
+     </g>
+     <g id="line_1_47" baseline="(0.0,-3.0)" style="font-size:22.0px;" class="line">
+      <text x="793.0" y="317.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="317.0" width="114.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_70" class="word" x_wconf="75">
+       <rect x="793.0" y="317.0" width="30.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="329.0" class="text" style="font-size:12.0px;font-style:bold;">Ln</text>
+      </g>
+      <g id="word_1_71" class="word" x_wconf="80">
+       <rect x="826.0" y="318.0" width="12.0" height="13.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="327.1" class="text" style="font-size:10.0px;font-style:bold;">(1</text>
+      </g>
+      <g id="word_1_72" class="word" x_wconf="60">
+       <rect x="841.0" y="317.0" width="25.0" height="13.0" style="fill:green;opacity:0.2;"/>
+       <text x="841.0" y="330.0" class="text" style="font-size:16.900000000000002px;font-style:bold;">:1.</text>
+      </g>
+      <g id="word_1_73" class="word" x_wconf="59">
+       <rect x="871.0" y="317.0" width="36.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="332.0" class="text" style="font-size:19.5px;font-style:bold;">an</text>
+      </g>
+     </g>
+     <g id="line_1_48" baseline="(0.017,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="791.0" y="347.0" style="font-size:7.0px;">23.5</text>
+      <rect x="791.0" y="347.0" width="116.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_74" class="word" x_wconf="72">
+       <rect x="791.0" y="347.0" width="32.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="791.0" y="359.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">u:</text>
+      </g>
+      <g id="word_1_75" class="word" x_wconf="62">
+       <rect x="826.0" y="347.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="361.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">0.60.</text>
+      </g>
+      <g id="word_1_76" class="word" x_wconf="78">
+       <rect x="872.0" y="347.0" width="6.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="358.0" class="text" style="font-size:14.3px;">1</text>
+      </g>
+      <g id="word_1_77" class="word" x_wconf="60">
+       <rect x="881.0" y="347.0" width="26.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="881.0" y="356.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">AI)</text>
+      </g>
+     </g>
+     <g id="line_1_49" baseline="(0.018,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="376.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="376.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_78" class="word" x_wconf="66">
+       <rect x="793.0" y="376.0" width="29.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="388.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">u:</text>
+      </g>
+      <g id="word_1_79" class="word" x_wconf="58">
+       <rect x="826.0" y="376.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="390.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">9.1..</text>
+      </g>
+      <g id="word_1_80" class="word" x_wconf="80">
+       <rect x="872.0" y="376.0" width="6.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="388.0" class="text" style="font-size:12.0px;font-style:bold;">I</text>
+      </g>
+      <g id="word_1_81" class="word" x_wconf="60">
+       <rect x="881.0" y="376.0" width="26.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="881.0" y="385.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">M)</text>
+      </g>
+     </g>
+     <g id="line_1_50" baseline="(0.0,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="406.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="406.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_82" class="word" x_wconf="69">
+       <rect x="793.0" y="406.0" width="5.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="417.0" class="text" style="font-size:14.3px;font-style:bold;">c</text>
+      </g>
+      <g id="word_1_83" class="word" x_wconf="74">
+       <rect x="802.0" y="406.0" width="21.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="802.0" y="418.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">.a</text>
+      </g>
+      <g id="word_1_84" class="word" x_wconf="55">
+       <rect x="826.0" y="406.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="420.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">on</text>
+      </g>
+      <g id="word_1_85" class="word" x_wconf="66">
+       <rect x="872.0" y="406.0" width="6.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="417.0" class="text" style="font-size:14.3px;font-style:italic;">‘</text>
+      </g>
+      <g id="word_1_86" class="word" x_wconf="57">
+       <rect x="881.0" y="406.0" width="26.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="881.0" y="420.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">a</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_12">
+    <g class="para" id="par_1_15">
+     <g id="line_1_51" baseline="(0.017,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="792.0" y="494.0" style="font-size:7.0px;">23.5</text>
+      <rect x="792.0" y="494.0" width="115.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_87" class="word" x_wconf="64">
+       <rect x="792.0" y="494.0" width="29.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="792.0" y="506.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">u!</text>
+      </g>
+      <g id="word_1_88" class="word" x_wconf="66">
+       <rect x="826.0" y="494.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="503.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">(Hz.</text>
+      </g>
+      <g id="word_1_89" class="word" x_wconf="53">
+       <rect x="871.0" y="494.0" width="36.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="503.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">mu)</text>
+      </g>
+     </g>
+     <g id="line_1_52" baseline="(0.026,-3.0)" style="font-size:22.0px;" class="line">
+      <text x="791.0" y="523.0" style="font-size:7.0px;">23.5</text>
+      <rect x="791.0" y="523.0" width="116.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_90" class="word" x_wconf="66">
+       <rect x="791.0" y="523.0" width="32.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="791.0" y="535.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">on</text>
+      </g>
+      <g id="word_1_91" class="word" x_wconf="65">
+       <rect x="826.0" y="523.0" width="40.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="533.5" class="text" style="font-size:11.538461538461538px;font-style:bold;">p.40.</text>
+      </g>
+      <g id="word_1_92" class="word" x_wconf="68">
+       <rect x="872.0" y="524.0" width="6.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="535.0" class="text" style="font-size:14.3px;">!</text>
+      </g>
+      <g id="word_1_93" class="word" x_wconf="66">
+       <rect x="881.0" y="523.0" width="26.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="881.0" y="538.0" class="text" style="font-size:19.5px;font-style:bold;">.47!</text>
+      </g>
+     </g>
+     <g id="line_1_53" baseline="(0.026,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="553.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="553.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_94" class="word" x_wconf="60">
+       <rect x="793.0" y="553.0" width="30.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="565.0" class="text" style="font-size:12.0px;font-style:bold;">In</text>
+      </g>
+      <g id="word_1_95" class="word" x_wconf="68">
+       <rect x="826.0" y="553.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="562.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">(no.</text>
+      </g>
+      <g id="word_1_96" class="word" x_wconf="72">
+       <rect x="871.0" y="553.0" width="36.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="567.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">1m</text>
+      </g>
+     </g>
+     <g id="line_1_54" baseline="(0.017,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="791.0" y="582.0" style="font-size:7.0px;">23.5</text>
+      <rect x="791.0" y="582.0" width="116.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_97" class="word" x_wconf="71">
+       <rect x="791.0" y="582.0" width="32.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="791.0" y="594.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">us</text>
+      </g>
+      <g id="word_1_98" class="word" x_wconf="64">
+       <rect x="826.0" y="582.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="596.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">021.</text>
+      </g>
+      <g id="word_1_99" class="word" x_wconf="58">
+       <rect x="872.0" y="583.0" width="6.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="594.0" class="text" style="font-size:14.3px;font-style:bold;">u</text>
+      </g>
+      <g id="word_1_100" class="word" x_wconf="78">
+       <rect x="881.0" y="582.0" width="26.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="881.0" y="596.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">.m</text>
+      </g>
+     </g>
+     <g id="line_1_55" baseline="(0.018,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="612.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="612.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_101" class="word" x_wconf="69">
+       <rect x="793.0" y="612.0" width="5.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="623.0" class="text" style="font-size:14.3px;font-style:bold;">c</text>
+      </g>
+      <g id="word_1_102" class="word" x_wconf="69">
+       <rect x="802.0" y="612.0" width="21.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="802.0" y="624.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">.u</text>
+      </g>
+      <g id="word_1_103" class="word" x_wconf="31">
+       <rect x="826.0" y="612.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="826.0" y="626.0" class="text" style="fill:red;font-size:18.200000000000003px;font-style:bold;opacity:0.217;">ou‘</text>
+      </g>
+      <g id="word_1_104" class="word" x_wconf="62">
+       <rect x="871.0" y="612.0" width="36.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="626.0" class="text" style="font-size:14.0px;font-style:bold;">1M</text>
+      </g>
+     </g>
+     <g id="line_1_56" baseline="(0.0,-3.0)" style="font-size:22.0px;" class="line">
+      <text x="793.0" y="641.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="641.0" width="114.0" height="15.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_105" class="word" x_wconf="79">
+       <rect x="793.0" y="641.0" width="29.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="653.0" class="text" style="font-size:12.0px;font-style:bold;">LII</text>
+      </g>
+      <g id="word_1_106" class="word" x_wconf="61">
+       <rect x="826.0" y="641.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="650.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">pm.</text>
+      </g>
+      <g id="word_1_107" class="word" x_wconf="57">
+       <rect x="871.0" y="641.0" width="36.0" height="15.0" style="fill:green;opacity:0.2;"/>
+       <text x="871.0" y="651.5" class="text" style="font-size:11.538461538461538px;font-style:bold;">211)</text>
+      </g>
+     </g>
+     <g id="line_1_57" baseline="(0.0,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="671.0" style="font-size:7.0px;">23.5</text>
+      <rect x="793.0" y="671.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_108" class="word" x_wconf="77">
+       <rect x="793.0" y="671.0" width="30.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="682.0" class="text" style="font-size:11.0px;font-style:bold;">Lu</text>
+      </g>
+      <g id="word_1_109" class="word" x_wconf="56">
+       <rect x="826.0" y="671.0" width="40.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="826.0" y="685.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">nn</text>
+      </g>
+      <g id="word_1_110" class="word" x_wconf="76">
+       <rect x="872.0" y="671.0" width="6.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="682.0" class="text" style="font-size:14.3px;">1</text>
+      </g>
+      <g id="word_1_111" class="word" x_wconf="70">
+       <rect x="881.0" y="671.0" width="26.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="881.0" y="680.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">.51)</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_13">
+    <g class="para" id="par_1_16">
+     <g id="line_1_58" baseline="(0.0,-3.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="730.0" style="font-size:7.0px;">22.8</text>
+      <rect x="793.0" y="730.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_112" class="word" x_wconf="63">
+       <rect x="793.0" y="730.0" width="73.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="744.0" class="text" style="font-size:14.0px;font-style:bold;">LIIOJS.</text>
+      </g>
+      <g id="word_1_113" class="word" x_wconf="78">
+       <rect x="872.0" y="730.0" width="35.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="744.0" class="text" style="font-size:18.200000000000003px;font-style:bold;">un</text>
+      </g>
+     </g>
+     <g id="line_1_59" baseline="(0.009,-2.0)" style="font-size:21.0px;" class="line">
+      <text x="793.0" y="759.0" style="font-size:7.0px;">22.8</text>
+      <rect x="793.0" y="759.0" width="114.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_114" class="word" x_wconf="54">
+       <rect x="793.0" y="759.0" width="73.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="793.0" y="768.8" class="text" style="font-size:10.769230769230768px;font-style:bold;">Lap...</text>
+      </g>
+      <g id="word_1_115" class="word" x_wconf="61">
+       <rect x="872.0" y="759.0" width="35.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="872.0" y="773.0" class="text" style="font-size:14.0px;font-style:bold;">uh</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_14">
+    <g class="para" id="par_1_17">
+     <g id="line_1_60" baseline="(-0.022,0.0)" style="font-size:19.0px;" class="line">
+      <text x="923.0" y="347.0" style="font-size:7.0px;">16.0</text>
+      <rect x="923.0" y="347.0" width="46.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_116" class="word" x_wconf="58">
+       <rect x="923.0" y="347.0" width="46.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="923.0" y="359.0" class="text" style="font-size:12.0px;font-style:bold;">MOI</text>
+      </g>
+     </g>
+     <g id="line_1_61" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="924.0" y="376.0" style="font-size:7.0px;">16.0</text>
+      <rect x="924.0" y="376.0" width="56.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_117" class="word" x_wconf="65">
+       <rect x="924.0" y="376.0" width="56.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="924.0" y="388.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">um"</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_15">
+    <g class="para" id="par_1_18">
+     <g id="line_1_62" baseline="(0.0,0.0)" style="font-size:18.0px;" class="line">
+      <text x="924.0" y="524.0" style="font-size:7.0px;">20.0</text>
+      <rect x="924.0" y="524.0" width="45.0" height="11.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_118" class="word" x_wconf="77">
+       <rect x="924.0" y="524.0" width="45.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="924.0" y="535.0" class="text" style="font-size:11.0px;font-style:bold;">Imzl</text>
+      </g>
+     </g>
+     <g id="line_1_63" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="924.0" y="553.0" style="font-size:7.0px;">16.0</text>
+      <rect x="924.0" y="553.0" width="47.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_119" class="word" x_wconf="64">
+       <rect x="924.0" y="553.0" width="47.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="924.0" y="565.0" class="text" style="font-size:12.0px;font-style:bold;">MI</text>
+      </g>
+     </g>
+     <g id="line_1_64" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="922.0" y="582.0" style="font-size:7.0px;">16.0</text>
+      <rect x="922.0" y="582.0" width="41.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_120" class="word" x_wconf="62">
+       <rect x="922.0" y="582.0" width="41.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="922.0" y="594.0" class="text" style="font-size:12.0px;font-style:bold;">II":</text>
+      </g>
+     </g>
+     <g id="line_1_65" baseline="(0.026,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="924.0" y="612.0" style="font-size:7.0px;">16.0</text>
+      <rect x="924.0" y="612.0" width="39.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_121" class="word" x_wconf="63">
+       <rect x="924.0" y="612.0" width="39.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="924.0" y="624.0" class="text" style="font-size:12.0px;font-style:bold;">Ill”</text>
+      </g>
+     </g>
+     <g id="line_1_66" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="923.0" y="641.0" style="font-size:7.0px;">16.0</text>
+      <rect x="923.0" y="641.0" width="48.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_122" class="word" x_wconf="63">
+       <rect x="923.0" y="641.0" width="48.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="923.0" y="653.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">7801'</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_16">
+    <g class="para" id="par_1_19">
+     <g id="line_1_67" baseline="(0.02,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="82.0" style="font-size:7.0px;">20.0</text>
+      <rect x="994.0" y="82.0" width="49.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_123" class="word" x_wconf="55">
+       <rect x="994.0" y="82.0" width="49.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="94.0" class="text" style="font-size:12.0px;font-style:bold;">E“.</text>
+      </g>
+     </g>
+     <g id="line_1_68" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="993.0" y="111.0" style="font-size:7.0px;">20.0</text>
+      <rect x="993.0" y="111.0" width="57.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_124" class="word" x_wconf="72">
+       <rect x="993.0" y="111.0" width="57.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="993.0" y="123.0" class="text" style="font-size:12.0px;font-style:bold;">Conloh</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_17">
+    <g class="para" id="par_1_20">
+     <g id="line_1_69" baseline="(0.0,0.0)" style="font-size:18.0px;" class="line">
+      <text x="996.0" y="200.0" style="font-size:7.0px;">20.0</text>
+      <rect x="996.0" y="200.0" width="36.0" height="11.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_125" class="word" x_wconf="58">
+       <rect x="996.0" y="200.0" width="36.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="996.0" y="211.0" class="text" style="font-size:11.0px;font-style:bold;">Isa:</text>
+      </g>
+     </g>
+     <g id="line_1_70" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="993.0" y="229.0" style="font-size:7.0px;">16.0</text>
+      <rect x="993.0" y="229.0" width="40.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_126" class="word" x_wconf="72">
+       <rect x="993.0" y="229.0" width="40.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="993.0" y="241.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">21m</text>
+      </g>
+     </g>
+     <g id="line_1_71" baseline="(0.021,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="258.0" style="font-size:7.0px;">20.0</text>
+      <rect x="994.0" y="258.0" width="48.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_127" class="word" x_wconf="68">
+       <rect x="994.0" y="258.0" width="48.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="270.0" class="text" style="font-size:12.0px;font-style:bold;">41M:</text>
+      </g>
+     </g>
+     <g id="line_1_72" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="288.0" style="font-size:7.0px;">16.0</text>
+      <rect x="994.0" y="288.0" width="39.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_128" class="word" x_wconf="58">
+       <rect x="994.0" y="288.0" width="39.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="300.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">2200</text>
+      </g>
+     </g>
+     <g id="line_1_73" baseline="(0.019,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="996.0" y="317.0" style="font-size:7.0px;">20.0</text>
+      <rect x="996.0" y="317.0" width="54.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_129" class="word" x_wconf="66">
+       <rect x="996.0" y="317.0" width="54.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="996.0" y="329.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">mm:</text>
+      </g>
+     </g>
+     <g id="line_1_74" baseline="(0.0,0.0)" style="font-size:18.0px;" class="line">
+      <text x="994.0" y="347.0" style="font-size:7.0px;">20.0</text>
+      <rect x="994.0" y="347.0" width="48.0" height="11.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_130" class="word" x_wconf="69">
+       <rect x="994.0" y="347.0" width="48.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="358.0" class="text" style="font-size:14.3px;font-style:bold;">wins</text>
+      </g>
+     </g>
+     <g id="line_1_75" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="376.0" style="font-size:7.0px;">16.0</text>
+      <rect x="994.0" y="376.0" width="57.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_131" class="word" x_wconf="61">
+       <rect x="994.0" y="376.0" width="57.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="388.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">259/152</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_18">
+    <g class="para" id="par_1_21">
+     <g id="line_1_76" baseline="(0.018,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="995.0" y="494.0" style="font-size:7.0px;">16.0</text>
+      <rect x="995.0" y="494.0" width="55.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_132" class="word" x_wconf="66">
+       <rect x="995.0" y="494.0" width="55.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="995.0" y="506.0" class="text" style="font-size:12.0px;font-style:bold;">1W</text>
+      </g>
+     </g>
+     <g id="line_1_77" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="523.0" style="font-size:7.0px;">16.0</text>
+      <rect x="994.0" y="523.0" width="83.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_133" class="word" x_wconf="67">
+       <rect x="994.0" y="523.0" width="83.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="535.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">mam</text>
+      </g>
+     </g>
+     <g id="line_1_78" baseline="(0.022,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="996.0" y="553.0" style="font-size:7.0px;">20.0</text>
+      <rect x="996.0" y="553.0" width="46.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_134" class="word" x_wconf="63">
+       <rect x="996.0" y="553.0" width="46.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="996.0" y="565.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">14/172</text>
+      </g>
+     </g>
+     <g id="line_1_79" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="993.0" y="582.0" style="font-size:7.0px;">16.0</text>
+      <rect x="993.0" y="582.0" width="67.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_135" class="word" x_wconf="56">
+       <rect x="993.0" y="582.0" width="67.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="993.0" y="594.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">673/5045</text>
+      </g>
+     </g>
+     <g id="line_1_80" baseline="(-0.021,0.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="612.0" style="font-size:7.0px;">16.0</text>
+      <rect x="994.0" y="612.0" width="48.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_136" class="word" x_wconf="66">
+       <rect x="994.0" y="612.0" width="48.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="624.0" class="text" style="font-size:12.0px;font-style:bold;">W112</text>
+      </g>
+     </g>
+     <g id="line_1_81" baseline="(-0.012,0.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="641.0" style="font-size:7.0px;">20.0</text>
+      <rect x="994.0" y="641.0" width="84.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_137" class="word" x_wconf="59">
+       <rect x="994.0" y="641.0" width="84.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="653.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">421mm”</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_19">
+    <g class="para" id="par_1_22">
+     <g id="line_1_82" baseline="(-0.012,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="994.0" y="730.0" style="font-size:7.0px;">20.0</text>
+      <rect x="994.0" y="730.0" width="81.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_138" class="word" x_wconf="60">
+       <rect x="994.0" y="730.0" width="81.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="994.0" y="742.0" class="text" style="font-size:12.0px;font-style:bold;">«Twain</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_20">
+    <g class="para" id="par_1_23">
+     <g id="line_1_83" baseline="(0.0,-1.0)" style="font-size:21.0px;" class="line">
+      <text x="1092.0" y="82.0" style="font-size:7.0px;">17.3</text>
+      <rect x="1092.0" y="82.0" width="49.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_139" class="word" x_wconf="58">
+       <rect x="1092.0" y="82.0" width="49.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="96.0" class="text" style="font-size:14.0px;font-style:bold;">MN</text>
+      </g>
+     </g>
+     <g id="line_1_84" baseline="(0.0,-1.0)" style="font-size:21.0px;" class="line">
+      <text x="1092.0" y="111.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1092.0" y="111.0" width="38.0" height="14.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_140" class="word" x_wconf="61">
+       <rect x="1092.0" y="111.0" width="38.0" height="14.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="125.0" class="text" style="font-size:14.0px;font-style:bold;">MD</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_21">
+    <g class="para" id="par_1_24">
+     <g id="line_1_85" baseline="(0.0,0.0)" style="font-size:18.0px;" class="line">
+      <text x="1092.0" y="200.0" style="font-size:7.0px;">20.0</text>
+      <rect x="1092.0" y="200.0" width="31.0" height="11.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_141" class="word" x_wconf="74">
+       <rect x="1092.0" y="200.0" width="31.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="211.0" class="text" style="font-size:14.3px;font-style:bold;">us</text>
+      </g>
+     </g>
+     <g id="line_1_86" baseline="(0.032,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="1092.0" y="229.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1092.0" y="229.0" width="31.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_142" class="word" x_wconf="69">
+       <rect x="1092.0" y="229.0" width="31.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="241.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">762</text>
+      </g>
+     </g>
+     <g id="line_1_87" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="1092.0" y="258.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1092.0" y="258.0" width="32.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_143" class="word" x_wconf="68">
+       <rect x="1092.0" y="258.0" width="32.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="270.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">'03</text>
+      </g>
+     </g>
+     <g id="line_1_88" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="1092.0" y="288.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1092.0" y="288.0" width="31.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_144" class="word" x_wconf="56">
+       <rect x="1092.0" y="288.0" width="31.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="300.0" class="text" style="font-size:12.0px;font-style:bold;">I3</text>
+      </g>
+     </g>
+     <g id="line_1_89" baseline="(0.026,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="1094.0" y="317.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1094.0" y="317.0" width="38.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_145" class="word" x_wconf="66">
+       <rect x="1094.0" y="317.0" width="38.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1094.0" y="329.0" class="text" style="font-size:12.0px;font-style:bold;">I05!</text>
+      </g>
+     </g>
+     <g id="line_1_90" baseline="(0.0,0.0)" style="font-size:18.0px;" class="line">
+      <text x="1094.0" y="347.0" style="font-size:7.0px;">20.0</text>
+      <rect x="1094.0" y="347.0" width="38.0" height="11.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_146" class="word" x_wconf="72">
+       <rect x="1094.0" y="347.0" width="38.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="1094.0" y="358.0" class="text" style="font-size:11.0px;font-style:bold;">Inn</text>
+      </g>
+     </g>
+     <g id="line_1_91" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="1093.0" y="376.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1093.0" y="376.0" width="38.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_147" class="word" x_wconf="70">
+       <rect x="1093.0" y="376.0" width="38.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1093.0" y="388.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">5540</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_22">
+    <g class="para" id="par_1_25">
+     <g id="line_1_92" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="1092.0" y="494.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1092.0" y="494.0" width="31.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_148" class="word" x_wconf="61">
+       <rect x="1092.0" y="494.0" width="31.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="506.0" class="text" style="font-size:12.0px;font-style:bold;">I”</text>
+      </g>
+     </g>
+     <g id="line_1_93" baseline="(0.026,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="1094.0" y="523.0" style="font-size:7.0px;">20.0</text>
+      <rect x="1094.0" y="523.0" width="38.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_149" class="word" x_wconf="74">
+       <rect x="1094.0" y="523.0" width="38.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1094.0" y="535.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">«no</text>
+      </g>
+     </g>
+     <g id="line_1_94" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="1092.0" y="553.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1092.0" y="553.0" width="32.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_150" class="word" x_wconf="65">
+       <rect x="1092.0" y="553.0" width="32.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="565.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">.23</text>
+      </g>
+     </g>
+     <g id="line_1_95" baseline="(0.0,0.0)" style="font-size:19.0px;" class="line">
+      <text x="1092.0" y="582.0" style="font-size:7.0px;">16.0</text>
+      <rect x="1092.0" y="582.0" width="30.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_151" class="word" x_wconf="68">
+       <rect x="1092.0" y="582.0" width="30.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="594.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">.50</text>
+      </g>
+     </g>
+     <g id="line_1_96" baseline="(0.0,0.0)" style="font-size:18.0px;" class="line">
+      <text x="1092.0" y="612.0" style="font-size:7.0px;">20.0</text>
+      <rect x="1092.0" y="612.0" width="31.0" height="11.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_152" class="word" x_wconf="80">
+       <rect x="1092.0" y="612.0" width="31.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="623.0" class="text" style="font-size:14.3px;font-style:bold;">771</text>
+      </g>
+     </g>
+     <g id="line_1_97" baseline="(0.025,-1.0)" style="font-size:19.0px;" class="line">
+      <text x="1092.0" y="641.0" style="font-size:7.0px;">20.0</text>
+      <rect x="1092.0" y="641.0" width="40.0" height="12.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_153" class="word" x_wconf="67">
+       <rect x="1092.0" y="641.0" width="40.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="1092.0" y="653.0" class="text" style="font-size:15.600000000000001px;font-style:bold;">“00</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_23">
+    <g class="para" id="par_1_26">
+     <g id="line_1_98" baseline="(0.0,0.0)" style="font-size:18.0px;" class="line">
+      <text x="1094.0" y="730.0" style="font-size:7.0px;">20.0</text>
+      <rect x="1094.0" y="730.0" width="46.0" height="11.0" style="fill:orange;opacity:0.2;"/>
+      <g id="word_1_154" class="word" x_wconf="70">
+       <rect x="1094.0" y="730.0" width="46.0" height="11.0" style="fill:green;opacity:0.2;"/>
+       <text x="1094.0" y="741.0" class="text" style="font-size:11.0px;font-style:bold;">No.01:</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

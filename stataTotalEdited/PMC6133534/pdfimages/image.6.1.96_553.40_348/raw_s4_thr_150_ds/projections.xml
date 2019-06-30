@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projections cTree="PMC6133534" imageDir="image.6.1.96_553.40_348" basename="raw_s4_thr_150_ds">
+ <xcoords/>
+ <ycoords>
+  <ycoord min="381" max="383"/>
+  <ycoord min="429" max="430"/>
+  <ycoord min="765" max="766"/>
+ </ycoords>
+ <g class="verticallines" xmlns="http://www.w3.org/2000/svg"/>
+ <g class="horizontallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="285.0" y1="381.0" x2="754.0" y2="381.0" style="stroke:red;stroke-width:3.0;"/>
+  <line x1="427.0" y1="429.0" x2="828.0" y2="429.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="39.0" y1="765.0" x2="1235.0" y2="765.0" style="stroke:red;stroke-width:2.0;"/>
+ </g>
+ <subImage>
+  <x min="52" max="53"/>
+  <x min="63" max="64"/>
+  <x min="69" max="69"/>
+  <x min="74" max="74"/>
+  <x min="78" max="79"/>
+  <x min="83" max="84"/>
+  <x min="87" max="88"/>
+  <x min="97" max="97"/>
+  <x min="101" max="101"/>
+  <x min="107" max="107"/>
+  <x min="122" max="123"/>
+  <x min="128" max="129"/>
+  <x min="141" max="142"/>
+  <x min="149" max="149"/>
+  <x min="154" max="155"/>
+  <x min="160" max="161"/>
+  <x min="169" max="170"/>
+  <x min="178" max="178"/>
+  <x min="186" max="186"/>
+  <x min="193" max="193"/>
+  <x min="202" max="202"/>
+  <x min="207" max="207"/>
+  <x min="223" max="223"/>
+  <x min="566" max="567"/>
+  <x min="590" max="591"/>
+  <x min="841" max="841"/>
+  <x min="846" max="846"/>
+  <x min="858" max="859"/>
+  <x min="867" max="868"/>
+  <x min="877" max="878"/>
+  <x min="883" max="883"/>
+  <x min="887" max="888"/>
+  <x min="896" max="896"/>
+  <x min="901" max="901"/>
+  <x min="907" max="907"/>
+  <x min="915" max="915"/>
+  <x min="928" max="928"/>
+  <x min="936" max="937"/>
+  <x min="941" max="941"/>
+  <x min="949" max="950"/>
+  <x min="956" max="957"/>
+  <x min="986" max="987"/>
+  <x min="991" max="991"/>
+  <x min="995" max="995"/>
+  <x min="1005" max="1005"/>
+  <x min="1012" max="1012"/>
+  <x min="1065" max="1065"/>
+  <x min="1069" max="1069"/>
+  <x min="1077" max="1078"/>
+  <x min="1088" max="1089"/>
+  <x min="1095" max="1095"/>
+  <x min="1166" max="1167"/>
+  <x min="1176" max="1176"/>
+  <x min="1181" max="1181"/>
+  <x min="1190" max="1190"/>
+ </subImage>
+</projections>

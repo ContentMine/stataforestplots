@@ -1,0 +1,11 @@
+<page x="0" y="0" dx="0" dy="0">
+<block x="0" y="0" dx="0" dy="0">
+<line x="1279" y="0" dx="-1278" dy="0" value="0">
+ <space x="4" y="4" dx="306" dy="2" />
+ <box x="4" y="4" dx="306" dy="2" value="_" />
+ <box x="313" y="4" dx="316" dy="2" value="_" />
+ <box x="631" y="4" dx="314" dy="2" value="_" />
+ <box x="948" y="4" dx="328" dy="2" value="_" />
+</line>
+</block>
+</page>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="697.0" width="453.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="page">
+  <g class="block">
+   <g class="line">
+    <rect x="0.0" y="684.0" width="443.0" height="3.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="0.0" y="684.0" width="443.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="0.0" y="687.0" achars="" style="fill:black;font-family:helvetica;font-size:10.0px;">?</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="17.0" y="49.0" width="8.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="17.0" y="49.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="17.0" y="66.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="29.0" y="64.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="29.0" y="66.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="34.0" y="49.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="34.0" y="66.0" achars="7,1,l" style="fill:black;font-family:helvetica;font-size:10.0px;">7</text>
+    </g>
+    <g>
+     <rect x="48.0" y="49.0" width="7.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="48.0" y="66.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <rect x="56.0" y="49.0" width="8.0" height="21.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="65.0" y="49.0" width="6.0" height="21.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="65.0" y="70.0" achars="(,c,{" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="73.0" y="49.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="73.0" y="66.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="84.0" y="64.0" width="4.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="84.0" y="66.0" achars="_,." style="fill:black;font-family:helvetica;font-size:10.0px;">_</text>
+    </g>
+    <g>
+     <rect x="89.0" y="49.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="89.0" y="66.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="102.0" y="49.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="102.0" y="66.0" achars="4,q" style="fill:black;font-family:helvetica;font-size:10.0px;">4</text>
+    </g>
+    <g>
+     <rect x="115.0" y="64.0" width="4.0" height="5.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="115.0" y="69.0" achars=".,§,t" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <rect x="120.0" y="49.0" width="4.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="125.0" y="49.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="125.0" y="66.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="139.0" y="64.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="139.0" y="66.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="144.0" y="49.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="144.0" y="66.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <g>
+     <rect x="157.0" y="49.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="157.0" y="66.0" achars="6" style="fill:black;font-family:helvetica;font-size:10.0px;">6</text>
+    </g>
+    <g>
+     <rect x="169.0" y="49.0" width="6.0" height="21.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="169.0" y="70.0" achars="),}" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="176.0" y="49.0" width="10.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="199.0" y="49.0" width="9.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="229.0" y="49.0" width="6.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="256.0" y="49.0" width="3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="275.0" y="49.0" width="-1.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="284.0" y="49.0" width="-2.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="288.0" y="49.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="289.0" y="49.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="287.0" y="49.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="287.0" y="66.0" achars="e" style="fill:black;font-family:helvetica;font-size:10.0px;">e</text>
+    </g>
+    <g>
+     <rect x="300.0" y="49.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="300.0" y="66.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <g>
+     <rect x="313.0" y="64.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="313.0" y="66.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="318.0" y="49.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="318.0" y="66.0" achars="9,g" style="fill:black;font-family:helvetica;font-size:10.0px;">9</text>
+    </g>
+    <g>
+     <rect x="332.0" y="49.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="332.0" y="66.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="17.0" y="127.0" width="8.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="17.0" y="127.0" width="8.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="17.0" y="143.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="29.0" y="141.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="29.0" y="143.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="34.0" y="126.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="34.0" y="143.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <g>
+     <rect x="47.0" y="126.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="47.0" y="143.0" achars="5" style="fill:black;font-family:helvetica;font-size:10.0px;">5</text>
+    </g>
+    <g>
+     <rect x="65.0" y="127.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="65.0" y="147.0" achars="(,c" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="72.0" y="126.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="72.0" y="143.0" achars="o,O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="85.0" y="141.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="85.0" y="143.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="90.0" y="127.0" width="11.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="90.0" y="143.0" achars="9,g,Q" style="fill:black;font-family:helvetica;font-size:10.0px;">9</text>
+    </g>
+    <g>
+     <rect x="103.0" y="126.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="103.0" y="143.0" achars="9,g" style="fill:black;font-family:helvetica;font-size:10.0px;">9</text>
+    </g>
+    <g>
+     <rect x="115.0" y="141.0" width="3.0" height="6.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="115.0" y="147.0" achars=",§." style="fill:black;font-family:helvetica;font-size:10.0px;">,</text>
+    </g>
+    <g>
+     <rect x="127.0" y="127.0" width="8.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="127.0" y="143.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="139.0" y="141.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="139.0" y="143.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="144.0" y="127.0" width="10.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="144.0" y="143.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+    <g>
+     <rect x="156.0" y="127.0" width="12.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="156.0" y="143.0" achars="4,q" style="fill:black;font-family:helvetica;font-size:10.0px;">4</text>
+    </g>
+    <g>
+     <rect x="169.0" y="127.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="169.0" y="147.0" achars="),J,}" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="176.0" y="127.0" width="8.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="196.0" y="127.0" width="8.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="223.0" y="127.0" width="6.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="250.0" y="127.0" width="2.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="269.0" y="127.0" width="0.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="281.0" y="127.0" width="-2.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="286.0" y="127.0" width="-3.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="288.0" y="127.0" width="-3.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="289.0" y="127.0" width="-3.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="287.0" y="127.0" width="12.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="287.0" y="143.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="300.0" y="127.0" width="11.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="300.0" y="143.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+    <g>
+     <rect x="313.0" y="141.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="313.0" y="143.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="318.0" y="126.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="318.0" y="143.0" achars="g,9" style="fill:black;font-family:helvetica;font-size:10.0px;">g</text>
+    </g>
+    <g>
+     <rect x="331.0" y="127.0" width="10.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="331.0" y="143.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="15.0" y="206.0" width="12.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="15.0" y="206.0" width="12.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="15.0" y="222.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="29.0" y="220.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="29.0" y="222.0" achars=".,-" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="35.0" y="206.0" width="8.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="35.0" y="222.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="46.0" y="206.0" width="12.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="46.0" y="222.0" achars="4,q" style="fill:black;font-family:helvetica;font-size:10.0px;">4</text>
+    </g>
+    <rect x="59.0" y="206.0" width="5.0" height="20.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="65.0" y="206.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="65.0" y="226.0" achars="(,c" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="73.0" y="206.0" width="8.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="73.0" y="222.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="85.0" y="220.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="85.0" y="223.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="89.0" y="206.0" width="12.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="89.0" y="222.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="104.0" y="206.0" width="7.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="104.0" y="222.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="115.0" y="220.0" width="3.0" height="6.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="115.0" y="226.0" achars=",§." style="fill:black;font-family:helvetica;font-size:10.0px;">,</text>
+    </g>
+    <rect x="119.0" y="206.0" width="5.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="125.0" y="206.0" width="12.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="125.0" y="222.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <g>
+     <rect x="139.0" y="206.0" width="16.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="139.0" y="222.0" achars="i" style="fill:black;font-family:helvetica;font-size:10.0px;">i</text>
+    </g>
+    <g>
+     <rect x="156.0" y="206.0" width="11.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="156.0" y="222.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+    <g>
+     <rect x="169.0" y="206.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="169.0" y="226.0" achars="),}" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="176.0" y="206.0" width="10.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="200.0" y="206.0" width="9.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="230.0" y="206.0" width="6.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="257.0" y="206.0" width="3.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="276.0" y="206.0" width="-1.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="285.0" y="206.0" width="-2.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="289.0" y="206.0" width="-3.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="290.0" y="206.0" width="-3.0" height="16.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="288.0" y="206.0" width="10.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="288.0" y="222.0" achars="6" style="fill:black;font-family:helvetica;font-size:10.0px;">6</text>
+    </g>
+    <g>
+     <rect x="300.0" y="220.0" width="4.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="300.0" y="223.0" achars=".,§,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="306.0" y="206.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="306.0" y="223.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+    <g>
+     <rect x="318.0" y="206.0" width="11.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="318.0" y="222.0" achars="6" style="fill:black;font-family:helvetica;font-size:10.0px;">6</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="16.0" y="285.0" width="11.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="16.0" y="285.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="16.0" y="302.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="29.0" y="299.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="29.0" y="302.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="34.0" y="285.0" width="24.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="34.0" y="302.0" achars="57,5I" style="fill:black;font-family:helvetica;font-size:10.0px;">5</text>
+    </g>
+    <rect x="59.0" y="285.0" width="5.0" height="20.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="65.0" y="285.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="65.0" y="305.0" achars="(,c" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="73.0" y="285.0" width="8.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="73.0" y="301.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="85.0" y="299.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="85.0" y="302.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="89.0" y="285.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="89.0" y="302.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="103.0" y="285.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="103.0" y="302.0" achars="o,O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="115.0" y="299.0" width="3.0" height="6.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="115.0" y="305.0" achars=",§." style="fill:black;font-family:helvetica;font-size:10.0px;">,</text>
+    </g>
+    <rect x="119.0" y="285.0" width="6.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="126.0" y="285.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="126.0" y="302.0" achars="5" style="fill:black;font-family:helvetica;font-size:10.0px;">5</text>
+    </g>
+    <g>
+     <rect x="138.0" y="299.0" width="4.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="138.0" y="302.0" achars=".,§,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="144.0" y="285.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="144.0" y="302.0" achars="5" style="fill:black;font-family:helvetica;font-size:10.0px;">5</text>
+    </g>
+    <g>
+     <rect x="156.0" y="285.0" width="11.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="156.0" y="301.0" achars="o,O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="169.0" y="285.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="169.0" y="305.0" achars="),}" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="176.0" y="285.0" width="10.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="199.0" y="285.0" width="9.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="229.0" y="285.0" width="6.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="256.0" y="285.0" width="3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="275.0" y="285.0" width="-1.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="284.0" y="285.0" width="-2.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="288.0" y="285.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="289.0" y="285.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="287.0" y="285.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="287.0" y="302.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <g>
+     <rect x="300.0" y="299.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="300.0" y="302.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="305.0" y="285.0" width="25.0" height="16.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="305.0" y="301.0" achars="" style="fill:black;font-family:helvetica;font-size:10.0px;">?</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="17.0" y="362.0" width="8.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="17.0" y="362.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="17.0" y="379.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="29.0" y="376.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="29.0" y="379.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="35.0" y="362.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="35.0" y="379.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="46.0" y="362.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="46.0" y="379.0" achars="4" style="fill:black;font-family:helvetica;font-size:10.0px;">4</text>
+    </g>
+    <rect x="59.0" y="362.0" width="5.0" height="20.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="65.0" y="362.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="65.0" y="382.0" achars="(,c" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="72.0" y="362.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="72.0" y="379.0" achars="o,O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="85.0" y="376.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="85.0" y="379.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="89.0" y="362.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="89.0" y="379.0" achars="5" style="fill:black;font-family:helvetica;font-size:10.0px;">5</text>
+    </g>
+    <g>
+     <rect x="103.0" y="362.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="103.0" y="379.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+    <g>
+     <rect x="115.0" y="376.0" width="3.0" height="6.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="115.0" y="382.0" achars=",§." style="fill:black;font-family:helvetica;font-size:10.0px;">,</text>
+    </g>
+    <rect x="119.0" y="362.0" width="5.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="125.0" y="362.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="125.0" y="379.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="139.0" y="376.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="139.0" y="379.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="143.0" y="362.0" width="25.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="143.0" y="379.0" achars="22,2t2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="169.0" y="362.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="169.0" y="382.0" achars="),}" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="176.0" y="362.0" width="10.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="200.0" y="362.0" width="9.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="230.0" y="362.0" width="6.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="257.0" y="362.0" width="3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="276.0" y="362.0" width="-1.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="285.0" y="362.0" width="-2.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="289.0" y="362.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="290.0" y="362.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="288.0" y="362.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="288.0" y="379.0" achars="6" style="fill:black;font-family:helvetica;font-size:10.0px;">6</text>
+    </g>
+    <g>
+     <rect x="300.0" y="376.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="300.0" y="379.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="305.0" y="362.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="305.0" y="379.0" achars="7,1" style="fill:black;font-family:helvetica;font-size:10.0px;">7</text>
+    </g>
+    <g>
+     <rect x="318.0" y="362.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="318.0" y="379.0" achars="9,g" style="fill:black;font-family:helvetica;font-size:10.0px;">9</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="15.0" y="441.0" width="12.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="15.0" y="441.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="15.0" y="458.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="29.0" y="455.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="29.0" y="458.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="34.0" y="441.0" width="24.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="34.0" y="458.0" achars="O7,i1,O1" style="fill:black;font-family:helvetica;font-size:10.0px;">O</text>
+    </g>
+    <rect x="59.0" y="441.0" width="5.0" height="20.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="65.0" y="441.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="65.0" y="461.0" achars="(,c" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="73.0" y="441.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="73.0" y="458.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="84.0" y="455.0" width="4.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="84.0" y="458.0" achars=".,§,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="90.0" y="441.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="90.0" y="458.0" achars="5" style="fill:black;font-family:helvetica;font-size:10.0px;">5</text>
+    </g>
+    <g>
+     <rect x="103.0" y="441.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="103.0" y="458.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+    <g>
+     <rect x="115.0" y="456.0" width="3.0" height="5.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="115.0" y="461.0" achars=",§." style="fill:black;font-family:helvetica;font-size:10.0px;">,</text>
+    </g>
+    <rect x="119.0" y="441.0" width="5.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="125.0" y="441.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="125.0" y="458.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="139.0" y="441.0" width="16.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="139.0" y="458.0" achars="i" style="fill:black;font-family:helvetica;font-size:10.0px;">i</text>
+    </g>
+    <g>
+     <rect x="156.0" y="441.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="156.0" y="458.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="169.0" y="441.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="169.0" y="461.0" achars=")" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="176.0" y="441.0" width="10.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="199.0" y="441.0" width="9.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="229.0" y="441.0" width="6.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="256.0" y="441.0" width="3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="275.0" y="441.0" width="-1.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="284.0" y="441.0" width="-2.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="288.0" y="441.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="289.0" y="441.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="287.0" y="441.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="287.0" y="458.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <g>
+     <rect x="300.0" y="441.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="300.0" y="458.0" achars="o,O,0,a" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="313.0" y="455.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="313.0" y="458.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="318.0" y="441.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="318.0" y="458.0" achars="o,O,0,a" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="331.0" y="441.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="331.0" y="458.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="17.0" y="520.0" width="8.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="17.0" y="520.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="17.0" y="537.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="29.0" y="520.0" width="16.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="29.0" y="537.0" achars="i" style="fill:black;font-family:helvetica;font-size:10.0px;">i</text>
+    </g>
+    <g>
+     <rect x="47.0" y="520.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="47.0" y="537.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <rect x="59.0" y="520.0" width="5.0" height="20.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="65.0" y="520.0" width="6.0" height="20.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="65.0" y="540.0" achars="(,c" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="73.0" y="520.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="73.0" y="537.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="85.0" y="534.0" width="3.0" height="3.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="85.0" y="537.0" achars=".,§" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="89.0" y="520.0" width="13.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="89.0" y="537.0" achars="4" style="fill:black;font-family:helvetica;font-size:10.0px;">4</text>
+    </g>
+    <g>
+     <rect x="103.0" y="520.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="103.0" y="537.0" achars="8" style="fill:black;font-family:helvetica;font-size:10.0px;">8</text>
+    </g>
+    <g>
+     <rect x="115.0" y="535.0" width="4.0" height="5.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="115.0" y="540.0" achars=".,§,t" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <rect x="120.0" y="520.0" width="4.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="125.0" y="520.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="125.0" y="537.0" achars="2" style="fill:black;font-family:helvetica;font-size:10.0px;">2</text>
+    </g>
+    <g>
+     <rect x="139.0" y="535.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="139.0" y="537.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="144.0" y="520.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="144.0" y="537.0" achars="o,O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="156.0" y="520.0" width="12.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="156.0" y="537.0" achars="3" style="fill:black;font-family:helvetica;font-size:10.0px;">3</text>
+    </g>
+    <g>
+     <rect x="169.0" y="520.0" width="6.0" height="21.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="169.0" y="541.0" achars="),}" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="176.0" y="520.0" width="10.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="200.0" y="520.0" width="9.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="230.0" y="520.0" width="6.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="257.0" y="520.0" width="3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="276.0" y="520.0" width="-1.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="285.0" y="520.0" width="-2.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="289.0" y="520.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="290.0" y="520.0" width="-3.0" height="17.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="288.0" y="520.0" width="8.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="288.0" y="537.0" achars="1" style="fill:black;font-family:helvetica;font-size:10.0px;">1</text>
+    </g>
+    <g>
+     <rect x="300.0" y="520.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="300.0" y="537.0" achars="o,O,0,a" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="313.0" y="520.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="313.0" y="537.0" achars="o,O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="326.0" y="535.0" width="3.0" height="2.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="326.0" y="537.0" achars=".,_" style="fill:black;font-family:helvetica;font-size:10.0px;">.</text>
+    </g>
+    <g>
+     <rect x="331.0" y="520.0" width="10.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="331.0" y="537.0" achars="o,O,0,a" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <g>
+     <rect x="343.0" y="520.0" width="11.0" height="17.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="343.0" y="537.0" achars="o,a,O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

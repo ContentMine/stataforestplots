@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="1568.0" width="1278.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g class="horizontallines">
+   <line x1="110.0" y1="609.0" x2="122.0" y2="609.0" style="stroke:red;stroke-width:4.0;"/>
+   <line x1="541.0" y1="609.0" x2="911.0" y2="609.0" style="stroke:red;stroke-width:4.0;"/>
+   <line x1="955.0" y1="609.0" x2="966.0" y2="609.0" style="stroke:red;stroke-width:4.0;"/>
+   <line x1="969.0" y1="609.0" x2="981.0" y2="609.0" style="stroke:red;stroke-width:4.0;"/>
+   <line x1="1108.0" y1="609.0" x2="1119.0" y2="609.0" style="stroke:red;stroke-width:4.0;"/>
+   <line x1="1174.0" y1="609.0" x2="1185.0" y2="609.0" style="stroke:red;stroke-width:4.0;"/>
+   <line x1="0.0" y1="1539.0" x2="1268.0" y2="1539.0" style="stroke:red;stroke-width:3.0;"/>
+  </g>
+  <g class="verticallines">
+   <line x1="594.0" y1="88.0" x2="594.0" y2="297.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="338.0" x2="594.0" y2="618.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="656.0" x2="594.0" y2="677.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="704.0" x2="594.0" y2="781.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="811.0" x2="594.0" y2="915.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="941.0" x2="594.0" y2="1011.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1057.0" x2="594.0" y2="1099.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1106.0" x2="594.0" y2="1121.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1128.0" x2="594.0" y2="1151.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1215.0" x2="594.0" y2="1226.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1234.0" x2="594.0" y2="1257.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1288.0" x2="594.0" y2="1339.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1365.0" x2="594.0" y2="1391.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="594.0" y1="1418.0" x2="594.0" y2="1558.0" style="stroke:blue;stroke-width:2.0;"/>
+  </g>
+ </g>
+</svg>

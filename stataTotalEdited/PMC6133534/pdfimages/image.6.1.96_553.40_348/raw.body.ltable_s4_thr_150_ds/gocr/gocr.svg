@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="350.0" width="67.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="page">
+  <g class="block">
+   <g class="line">
+    <rect x="51.0" y="287.0" width="3.0" height="5.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="51.0" y="287.0" width="3.0" height="5.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="51.0" y="292.0" achars="J,1" style="fill:black;font-family:helvetica;font-size:10.0px;">J</text>
+    </g>
+    <g>
+     <rect x="52.0" y="136.0" width="2.0" height="6.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="52.0" y="142.0" achars="l,1" style="fill:black;font-family:helvetica;font-size:10.0px;">l</text>
+    </g>
+    <g>
+     <rect x="52.0" y="144.0" width="2.0" height="4.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="52.0" y="148.0" achars="" style="fill:black;font-family:helvetica;font-size:10.0px;">?</text>
+    </g>
+    <g>
+     <rect x="52.0" y="184.0" width="2.0" height="13.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="52.0" y="197.0" achars="|,l,1,I" style="fill:black;font-family:helvetica;font-size:10.0px;">|</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="51.0" y="331.0" width="3.0" height="9.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="51.0" y="331.0" width="3.0" height="9.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="51.0" y="340.0" achars="J,l" style="fill:black;font-family:helvetica;font-size:10.0px;">J</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

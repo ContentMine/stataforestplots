@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lines>
+ <xLines>
+  <xLine min="1" max="12"/>
+  <xLine min="577" max="579"/>
+  <xLine min="590" max="592"/>
+  <xLine min="1168" max="1180"/>
+ </xLines>
+ <yLines>
+  <yLine min="2" max="14"/>
+  <yLine min="207" max="208"/>
+  <yLine min="781" max="783"/>
+  <yLine min="785" max="786"/>
+  <yLine min="788" max="789"/>
+  <yLine min="791" max="833"/>
+ </yLines>
+</lines>

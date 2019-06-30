@@ -1,0 +1,290 @@
+<page x="0" y="0" dx="0" dy="0">
+<block x="0" y="0" dx="0" dy="0">
+<line x="381" y="0" dx="-380" dy="0" value="0">
+ <space x="0" y="578" dx="369" dy="3" />
+ <box x="0" y="578" dx="369" dy="3" value="(PICTURE)" />
+</line>
+<line x="13" y="33" dx="293" dy="19" value="1">
+ <space x="16" y="33" dx="-1" dy="15" />
+ <space x="13" y="33" dx="11" dy="15" />
+ <box x="13" y="33" dx="11" dy="15" value="2" numac="2" weights="99,95" achars="2,z" />
+ <box x="26" y="46" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="32" y="32" dx="7" dy="17" value="1" numac="1" weights="99" achars="1" />
+ <box x="44" y="32" dx="6" dy="17" value="1" numac="1" weights="99" achars="1" />
+ <space x="51" y="32" dx="9" dy="21" />
+ <box x="61" y="32" dx="5" dy="21" value="(" numac="2" weights="100,92" achars="(,{" />
+ <box x="68" y="33" dx="11" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="81" y="46" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="86" y="33" dx="10" dy="16" value="8" numac="1" weights="97" achars="8" />
+ <box x="97" y="33" dx="11" dy="16" value="q" numac="2" weights="95,95" achars="q,4" />
+ <box x="110" y="46" dx="3" dy="6" value="," numac="2" weights="100,97" achars=",,." />
+ <space x="114" y="33" dx="7" dy="16" />
+ <box x="122" y="33" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="134" y="46" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="139" y="33" dx="11" dy="16" value="2" numac="1" weights="97" achars="2" />
+ <box x="151" y="33" dx="11" dy="16" value="8" numac="1" weights="97" achars="8" />
+ <box x="164" y="32" dx="5" dy="21" value=")" numac="1" weights="98" achars=")" />
+ <space x="170" y="33" dx="10" dy="15" />
+ <space x="193" y="33" dx="9" dy="15" />
+ <space x="221" y="33" dx="5" dy="15" />
+ <space x="242" y="33" dx="1" dy="15" />
+ <space x="252" y="33" dx="-2" dy="15" />
+ <space x="256" y="33" dx="-3" dy="15" />
+ <box x="254" y="33" dx="10" dy="15" value="2" numac="1" weights="99" achars="2" />
+ <box x="266" y="33" dx="10" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="279" y="33" dx="15" dy="16" value="i" numac="1" weights="98" achars="i" />
+ <box x="295" y="33" dx="11" dy="16" value="2" numac="2" weights="99,98" achars="2,z" />
+</line>
+<line x="14" y="86" dx="292" dy="17" value="2">
+ <space x="17" y="86" dx="-1" dy="17" />
+ <space x="14" y="86" dx="10" dy="17" />
+ <box x="14" y="86" dx="10" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="26" y="100" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="30" y="86" dx="12" dy="17" value="q" numac="2" weights="95,95" achars="q,4" />
+ <box x="43" y="87" dx="11" dy="16" value="7" numac="2" weights="97,96" achars="7,1" />
+ <box x="61" y="86" dx="5" dy="21" value="(" numac="2" weights="100,92" achars="(,{" />
+ <box x="68" y="86" dx="11" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="81" y="100" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="86" y="86" dx="10" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="97" y="87" dx="11" dy="15" value="q" numac="2" weights="98,95" achars="q,4" />
+ <box x="111" y="100" dx="2" dy="5" value="," numac="2" weights="97,97" achars=",,|" />
+ <box x="122" y="87" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="134" y="100" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="140" y="86" dx="10" dy="17" value="3" numac="1" weights="100" achars="3" />
+ <box x="151" y="87" dx="11" dy="16" value="7" numac="2" weights="97,96" achars="7,1" />
+ <box x="163" y="86" dx="6" dy="21" value=")" numac="1" weights="98" achars=")" />
+ <space x="170" y="86" dx="8" dy="17" />
+ <space x="190" y="86" dx="7" dy="17" />
+ <space x="215" y="86" dx="4" dy="17" />
+ <space x="236" y="86" dx="1" dy="17" />
+ <space x="249" y="86" dx="-1" dy="17" />
+ <space x="255" y="86" dx="-3" dy="17" />
+ <space x="257" y="86" dx="-3" dy="17" />
+ <box x="255" y="86" dx="7" dy="17" value="1" numac="1" weights="99" achars="1" />
+ <box x="266" y="86" dx="10" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="279" y="100" dx="2" dy="2" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="283" y="86" dx="11" dy="17" value="6" numac="1" weights="98" achars="6" />
+ <box x="296" y="86" dx="10" dy="17" value="8" numac="1" weights="99" achars="8" />
+</line>
+<line x="13" y="140" dx="281" dy="20" value="3">
+ <space x="16" y="140" dx="-1" dy="16" />
+ <space x="13" y="140" dx="11" dy="16" />
+ <box x="13" y="140" dx="11" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="26" y="154" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="31" y="140" dx="11" dy="16" value="3" numac="1" weights="100" achars="3" />
+ <box x="43" y="140" dx="11" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="61" y="140" dx="5" dy="21" value="(" numac="2" weights="100,92" achars="(,{" />
+ <box x="68" y="140" dx="11" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="81" y="154" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="86" y="140" dx="10" dy="16" value="2" numac="1" weights="98" achars="2" />
+ <box x="98" y="140" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="111" y="154" dx="2" dy="5" value="," numac="2" weights="97,97" achars=",,|" />
+ <box x="123" y="140" dx="6" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="134" y="140" dx="7" dy="16" value="1" numac="1" weights="98" achars="1" />
+ <box x="145" y="140" dx="11" dy="16" value="2" numac="1" weights="99" achars="2" />
+ <box x="158" y="154" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="163" y="140" dx="11" dy="16" value="3" numac="1" weights="100" achars="3" />
+ <box x="176" y="140" dx="6" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="187" y="140" dx="6" dy="21" value=")" numac="3" weights="98,96,94" achars="),&gt;,}" />
+ <space x="194" y="140" dx="8" dy="17" />
+ <space x="213" y="140" dx="7" dy="17" />
+ <space x="235" y="140" dx="3" dy="17" />
+ <space x="249" y="140" dx="0" dy="17" />
+ <space x="255" y="140" dx="-2" dy="17" />
+ <box x="254" y="140" dx="11" dy="17" value="8" numac="1" weights="99" achars="8" />
+ <box x="266" y="154" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="272" y="140" dx="10" dy="16" value="o" numac="4" weights="100,99,99,98" achars="o,O,0,a" />
+ <box x="284" y="140" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+</line>
+<line x="15" y="194" dx="291" dy="20" value="4">
+ <space x="18" y="194" dx="-1" dy="16" />
+ <space x="15" y="194" dx="6" dy="16" />
+ <box x="15" y="194" dx="6" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="26" y="194" dx="7" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="38" y="207" dx="3" dy="3" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="42" y="194" dx="11" dy="16" value="4" numac="1" weights="99" achars="4" />
+ <box x="55" y="194" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <space x="66" y="194" dx="6" dy="21" />
+ <box x="73" y="194" dx="5" dy="21" value="(" numac="2" weights="100,92" achars="(,{" />
+ <box x="80" y="194" dx="10" dy="16" value="3" numac="1" weights="100" achars="3" />
+ <box x="93" y="207" dx="2" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="98" y="194" dx="10" dy="16" value="6" numac="1" weights="98" achars="6" />
+ <box x="110" y="194" dx="10" dy="16" value="8" numac="1" weights="99" achars="8" />
+ <box x="122" y="207" dx="3" dy="6" value="," numac="2" weights="100,95" achars=",,." />
+ <space x="126" y="194" dx="6" dy="16" />
+ <box x="133" y="194" dx="11" dy="16" value="3" numac="1" weights="100" achars="3" />
+ <box x="146" y="194" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="158" y="207" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="163" y="194" dx="11" dy="16" value="6" numac="1" weights="98" achars="6" />
+ <box x="175" y="194" dx="11" dy="16" value="3" numac="1" weights="100" achars="3" />
+ <box x="187" y="194" dx="6" dy="21" value=")" numac="3" weights="98,96,94" achars="),&gt;,}" />
+ <space x="194" y="194" dx="12" dy="16" />
+ <space x="219" y="194" dx="9" dy="16" />
+ <space x="243" y="194" dx="3" dy="16" />
+ <space x="255" y="194" dx="-1" dy="16" />
+ <box x="255" y="194" dx="7" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="266" y="194" dx="10" dy="16" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="279" y="207" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="285" y="194" dx="6" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="296" y="194" dx="10" dy="16" value="3" numac="1" weights="100" achars="3" />
+</line>
+<line x="13" y="249" dx="278" dy="19" value="5">
+ <space x="16" y="249" dx="-1" dy="16" />
+ <space x="13" y="249" dx="11" dy="16" />
+ <box x="13" y="249" dx="11" dy="16" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="26" y="262" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="31" y="249" dx="11" dy="16" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="43" y="249" dx="10" dy="16" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="61" y="248" dx="5" dy="21" value="(" numac="2" weights="100,92" achars="(,{" />
+ <box x="68" y="249" dx="11" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="81" y="262" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="86" y="249" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="98" y="248" dx="10" dy="17" value="2" numac="1" weights="99" achars="2" />
+ <box x="110" y="262" dx="3" dy="5" value="," numac="2" weights="99,97" achars=",,." />
+ <box x="123" y="248" dx="6" dy="17" value="1" numac="1" weights="99" achars="1" />
+ <box x="133" y="249" dx="11" dy="16" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="146" y="248" dx="7" dy="17" value="1" numac="1" weights="99" achars="1" />
+ <box x="158" y="262" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="163" y="249" dx="10" dy="16" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="175" y="249" dx="10" dy="16" value="o" numac="3" weights="98,97,97" achars="o,O,0" />
+ <box x="187" y="248" dx="6" dy="21" value=")" numac="2" weights="98,97" achars="),&gt;" />
+ <space x="194" y="248" dx="8" dy="17" />
+ <space x="213" y="248" dx="7" dy="17" />
+ <space x="235" y="248" dx="3" dy="17" />
+ <space x="249" y="248" dx="0" dy="17" />
+ <space x="255" y="248" dx="-2" dy="17" />
+ <box x="254" y="248" dx="11" dy="17" value="8" numac="1" weights="99" achars="8" />
+ <box x="267" y="262" dx="2" dy="3" value="." numac="2" weights="99,98" achars=".,," />
+ <box x="271" y="249" dx="11" dy="16" value="q" numac="2" weights="95,95" achars="q,4" />
+ <box x="285" y="248" dx="6" dy="17" value="1" numac="2" weights="99,97" achars="1,J" />
+</line>
+<line x="14" y="302" dx="292" dy="20" value="6">
+ <space x="17" y="302" dx="-1" dy="17" />
+ <space x="14" y="302" dx="10" dy="17" />
+ <box x="14" y="302" dx="10" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="26" y="315" dx="3" dy="4" value="." numac="3" weights="99,98,93" achars=".,,,t" />
+ <box x="31" y="302" dx="11" dy="16" value="7" numac="1" weights="99" achars="7" />
+ <box x="43" y="303" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <space x="54" y="302" dx="6" dy="21" />
+ <box x="61" y="302" dx="5" dy="21" value="(" numac="2" weights="100,92" achars="(,{" />
+ <box x="68" y="302" dx="11" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="81" y="316" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="86" y="302" dx="10" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="98" y="302" dx="10" dy="17" value="8" numac="1" weights="99" achars="8" />
+ <box x="111" y="316" dx="2" dy="5" value="," numac="2" weights="97,97" achars=",,|" />
+ <space x="114" y="302" dx="7" dy="17" />
+ <box x="122" y="302" dx="10" dy="17" value="7" numac="2" weights="99,96" achars="7,1" />
+ <box x="134" y="316" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="139" y="302" dx="11" dy="16" value="4" numac="2" weights="95,94" achars="4,q" />
+ <box x="151" y="303" dx="11" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="163" y="302" dx="6" dy="21" value=")" numac="1" weights="98" achars=")" />
+ <space x="170" y="302" dx="10" dy="17" />
+ <space x="193" y="302" dx="9" dy="17" />
+ <space x="221" y="302" dx="5" dy="17" />
+ <space x="242" y="302" dx="1" dy="17" />
+ <space x="253" y="302" dx="-2" dy="17" />
+ <space x="257" y="302" dx="-3" dy="17" />
+ <box x="255" y="302" dx="7" dy="17" value="1" numac="1" weights="99" achars="1" />
+ <space x="263" y="302" dx="3" dy="16" />
+ <box x="267" y="302" dx="6" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <space x="274" y="316" dx="4" dy="2" />
+ <box x="279" y="316" dx="2" dy="2" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="284" y="302" dx="10" dy="17" value="3" numac="1" weights="100" achars="3" />
+ <box x="296" y="303" dx="10" dy="16" value="7" numac="1" weights="97" achars="7" />
+</line>
+<line x="13" y="356" dx="293" dy="20" value="7">
+ <space x="16" y="356" dx="-1" dy="16" />
+ <space x="13" y="356" dx="11" dy="16" />
+ <box x="13" y="356" dx="11" dy="16" value="2" numac="1" weights="99" achars="2" />
+ <box x="26" y="369" dx="3" dy="3" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="31" y="356" dx="11" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="43" y="356" dx="10" dy="16" value="8" numac="1" weights="99" achars="8" />
+ <box x="61" y="356" dx="6" dy="21" value="(" numac="3" weights="100,95,94" achars="(,c,{" />
+ <box x="68" y="356" dx="11" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="81" y="370" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="87" y="356" dx="7" dy="16" value="1" numac="1" weights="98" achars="1" />
+ <box x="98" y="356" dx="10" dy="16" value="8" numac="1" weights="99" achars="8" />
+ <box x="111" y="369" dx="2" dy="6" value="," numac="2" weights="97,87" achars=",,l" />
+ <box x="121" y="356" dx="11" dy="16" value="2" numac="1" weights="99" achars="2" />
+ <box x="133" y="356" dx="11" dy="17" value="3" numac="1" weights="100" achars="3" />
+ <box x="146" y="369" dx="3" dy="3" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="151" y="356" dx="11" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="163" y="356" dx="11" dy="16" value="7" numac="2" weights="97,96" achars="7,1" />
+ <box x="175" y="356" dx="6" dy="21" value=")" numac="2" weights="98,94" achars="),}" />
+ <space x="182" y="356" dx="11" dy="16" />
+ <space x="206" y="356" dx="9" dy="16" />
+ <space x="232" y="356" dx="5" dy="16" />
+ <space x="250" y="356" dx="0" dy="16" />
+ <space x="256" y="356" dx="-2" dy="16" />
+ <box x="255" y="356" dx="7" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="266" y="356" dx="10" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="279" y="370" dx="2" dy="2" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="283" y="356" dx="11" dy="16" value="6" numac="1" weights="98" achars="6" />
+ <box x="296" y="356" dx="10" dy="17" value="8" numac="1" weights="99" achars="8" />
+</line>
+<line x="0" y="410" dx="306" dy="20" value="8">
+ <space x="0" y="416" dx="1" dy="3" />
+ <box x="0" y="416" dx="1" dy="3" value="&apos;" numac="1" weights="98" achars="&apos;" />
+ <space x="2" y="410" dx="10" dy="16" />
+ <box x="13" y="410" dx="11" dy="16" value="7" numac="2" weights="99,98" achars="7,1" />
+ <box x="25" y="410" dx="11" dy="16" value="3" numac="1" weights="100" achars="3" />
+ <box x="38" y="423" dx="3" dy="3" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="43" y="410" dx="11" dy="16" value="6" numac="1" weights="98" achars="6" />
+ <box x="55" y="410" dx="11" dy="16" value="1" numac="2" weights="98,97" achars="1,7" />
+ <box x="73" y="410" dx="6" dy="21" value="(" numac="3" weights="100,94,93" achars="(,{,c" />
+ <box x="80" y="410" dx="10" dy="16" value="6" numac="1" weights="98" achars="6" />
+ <box x="93" y="423" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="98" y="410" dx="10" dy="16" value="8" numac="1" weights="99" achars="8" />
+ <box x="110" y="410" dx="10" dy="16" value="5" numac="1" weights="96" achars="5" />
+ <box x="122" y="423" dx="3" dy="6" value="," numac="2" weights="100,95" achars=",,." />
+ <box x="133" y="410" dx="11" dy="16" value="7" numac="3" weights="99,98,98" achars="7,J,1" />
+ <box x="145" y="410" dx="11" dy="16" value="9" numac="2" weights="99,86" achars="9,g" />
+ <box x="157" y="410" dx="10" dy="16" value="2" numac="1" weights="97" achars="2" />
+ <box x="170" y="423" dx="3" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="174" y="410" dx="11" dy="16" value="4" numac="2" weights="95,94" achars="4,q" />
+ <box x="187" y="410" dx="10" dy="16" value="6" numac="1" weights="98" achars="6" />
+ <box x="199" y="410" dx="5" dy="20" value=")" numac="1" weights="98" achars=")" />
+ <space x="205" y="410" dx="9" dy="16" />
+ <space x="225" y="410" dx="7" dy="16" />
+ <space x="245" y="410" dx="2" dy="16" />
+ <space x="255" y="410" dx="-1" dy="16" />
+ <box x="255" y="410" dx="7" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="266" y="410" dx="10" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="279" y="423" dx="2" dy="3" value="." numac="2" weights="99,97" achars=".,," />
+ <box x="283" y="410" dx="11" dy="16" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="296" y="410" dx="10" dy="16" value="6" numac="1" weights="98" achars="6" />
+</line>
+<line x="13" y="464" dx="305" dy="20" value="9">
+ <space x="16" y="464" dx="-1" dy="16" />
+ <space x="13" y="464" dx="11" dy="16" />
+ <box x="13" y="464" dx="11" dy="16" value="4" numac="2" weights="95,94" achars="4,q" />
+ <box x="26" y="477" dx="3" dy="3" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="31" y="464" dx="11" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="43" y="464" dx="11" dy="17" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="61" y="464" dx="5" dy="21" value="(" numac="2" weights="100,93" achars="(,{" />
+ <box x="69" y="464" dx="7" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="80" y="478" dx="4" dy="2" value="-" numac="2" weights="98,97" achars="-,." />
+ <box x="86" y="464" dx="11" dy="17" value="3" numac="1" weights="100" achars="3" />
+ <box x="97" y="464" dx="11" dy="17" value="9" numac="2" weights="99,96" achars="9,g" />
+ <box x="111" y="478" dx="2" dy="5" value="," numac="1" weights="98" achars="," />
+ <box x="123" y="464" dx="6" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="134" y="464" dx="7" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="146" y="478" dx="3" dy="2" value="." numac="2" weights="99,98" achars=".,-" />
+ <box x="151" y="464" dx="11" dy="17" value="$" numac="2" weights="99,96" achars="$,5" />
+ <box x="163" y="464" dx="11" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="175" y="464" dx="6" dy="21" value=")" numac="3" weights="98,96,94" achars="),&gt;,}" />
+ <space x="182" y="464" dx="8" dy="16" />
+ <space x="202" y="464" dx="7" dy="16" />
+ <space x="226" y="464" dx="4" dy="16" />
+ <space x="244" y="464" dx="1" dy="16" />
+ <space x="254" y="464" dx="-2" dy="16" />
+ <space x="257" y="464" dx="-3" dy="16" />
+ <box x="255" y="464" dx="7" dy="16" value="1" numac="1" weights="99" achars="1" />
+ <box x="266" y="464" dx="10" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="278" y="464" dx="10" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="290" y="477" dx="3" dy="3" value="." numac="2" weights="99,96" achars=".,," />
+ <box x="296" y="464" dx="10" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+ <box x="307" y="464" dx="11" dy="16" value="o" numac="3" weights="100,99,99" achars="o,O,0" />
+</line>
+</block>
+</page>

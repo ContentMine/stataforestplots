@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projections cTree="PMC5882397" imageDir="image.7.1.170_506.40_238" basename="raw_s4_thr_150_ds">
+ <xcoords/>
+ <ycoords>
+  <ycoord min="328" max="328"/>
+  <ycoord min="515" max="516"/>
+ </ycoords>
+ <g class="verticallines" xmlns="http://www.w3.org/2000/svg"/>
+ <g class="horizontallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="388.0" y1="328.0" x2="698.0" y2="328.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="0.0" y1="515.0" x2="933.0" y2="515.0" style="stroke:red;stroke-width:2.0;"/>
+ </g>
+ <subImage>
+  <x min="11" max="11"/>
+  <x min="15" max="15"/>
+  <x min="19" max="20"/>
+  <x min="27" max="27"/>
+  <x min="34" max="34"/>
+  <x min="39" max="39"/>
+  <x min="49" max="50"/>
+  <x min="54" max="54"/>
+  <x min="59" max="59"/>
+  <x min="64" max="64"/>
+  <x min="423" max="423"/>
+  <x min="452" max="453"/>
+  <x min="722" max="722"/>
+  <x min="733" max="733"/>
+  <x min="740" max="741"/>
+  <x min="745" max="745"/>
+  <x min="750" max="750"/>
+  <x min="761" max="761"/>
+  <x min="768" max="769"/>
+  <x min="804" max="804"/>
+  <x min="810" max="810"/>
+  <x min="816" max="817"/>
+  <x min="886" max="886"/>
+  <x min="897" max="897"/>
+  <x min="907" max="907"/>
+ </subImage>
+</projections>

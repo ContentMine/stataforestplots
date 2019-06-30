@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="78.0" width="1025.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="page">
+  <g class="block">
+   <g class="line">
+    <rect x="4.0" y="17.0" width="11.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="4.0" y="17.0" width="11.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="4.0" y="32.0" achars="S,5" style="fill:black;font-family:helvetica;font-size:10.0px;">S</text>
+    </g>
+    <g>
+     <rect x="16.0" y="18.0" width="5.0" height="14.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="16.0" y="32.0" achars="t" style="fill:black;font-family:helvetica;font-size:10.0px;">t</text>
+    </g>
+    <g>
+     <rect x="23.0" y="21.0" width="9.0" height="11.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="23.0" y="32.0" achars="u" style="fill:black;font-family:helvetica;font-size:10.0px;">u</text>
+    </g>
+    <g>
+     <rect x="33.0" y="17.0" width="9.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="33.0" y="32.0" achars="d" style="fill:black;font-family:helvetica;font-size:10.0px;">d</text>
+    </g>
+    <g>
+     <rect x="44.0" y="21.0" width="8.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="44.0" y="36.0" achars="y" style="fill:black;font-family:helvetica;font-size:10.0px;">y</text>
+    </g>
+    <rect x="53.0" y="17.0" width="6.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="69.0" y="17.0" width="6.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="95.0" y="17.0" width="6.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="130.0" y="17.0" width="6.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="173.0" y="17.0" width="5.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="222.0" y="17.0" width="4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="275.0" y="17.0" width="4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="332.0" y="17.0" width="4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="392.0" y="17.0" width="3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="452.0" y="17.0" width="2.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="510.0" y="17.0" width="2.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="567.0" y="17.0" width="1.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="620.0" y="17.0" width="1.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="670.0" y="17.0" width="0.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="715.0" y="17.0" width="-1.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="755.0" y="17.0" width="-1.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="791.0" y="17.0" width="-2.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="821.0" y="17.0" width="-2.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="847.0" y="17.0" width="-2.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="869.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="887.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="902.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="913.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="923.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="930.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="935.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="939.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="942.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="944.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="947.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="948.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="949.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="950.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="951.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="951.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="951.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="952.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="952.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="952.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="952.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="953.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="953.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="953.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="953.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="953.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="955.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-4.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="17.0" width="-3.0" height="8.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="955.0" y="17.0" width="7.0" height="8.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="955.0" y="25.0" achars="O,0,&quot;" style="fill:black;font-family:helvetica;font-size:10.0px;">O</text>
+    </g>
+    <g>
+     <rect x="959.0" y="17.0" width="8.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="959.0" y="32.0" achars="/" style="fill:black;font-family:helvetica;font-size:10.0px;">/</text>
+    </g>
+    <g>
+     <rect x="964.0" y="24.0" width="7.0" height="8.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="964.0" y="32.0" achars="o,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+   </g>
+   <g class="line">
+    <rect x="5.0" y="49.0" width="2.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="5.0" y="49.0" width="2.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="5.0" y="64.0" achars="l,I,|,1" style="fill:black;font-family:helvetica;font-size:10.0px;">l</text>
+    </g>
+    <g>
+     <rect x="10.0" y="49.0" width="12.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="10.0" y="64.0" achars="0" style="fill:black;font-family:helvetica;font-size:10.0px;">0</text>
+    </g>
+    <rect x="23.0" y="49.0" width="8.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="43.0" y="49.0" width="8.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="75.0" y="49.0" width="7.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="116.0" y="49.0" width="7.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="165.0" y="49.0" width="6.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="219.0" y="49.0" width="6.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="277.0" y="49.0" width="5.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="336.0" y="49.0" width="4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="394.0" y="49.0" width="3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="449.0" y="49.0" width="2.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="499.0" y="49.0" width="1.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="544.0" y="49.0" width="0.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="583.0" y="49.0" width="-1.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="616.0" y="49.0" width="-1.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="644.0" y="49.0" width="-2.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="666.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="683.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="696.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="706.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="713.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="719.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="722.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="725.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="727.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="728.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="729.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="729.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="730.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="730.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="730.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="731.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="731.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="731.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="731.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="732.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="732.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="732.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="732.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="732.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="732.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="733.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-4.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="734.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="732.0" y="49.0" width="13.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="732.0" y="64.0" achars="O,0" style="fill:black;font-family:helvetica;font-size:10.0px;">O</text>
+    </g>
+    <g>
+     <rect x="748.0" y="49.0" width="12.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="748.0" y="64.0" achars="R" style="fill:black;font-family:helvetica;font-size:10.0px;">R</text>
+    </g>
+    <rect x="761.0" y="49.0" width="5.0" height="18.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="767.0" y="49.0" width="4.0" height="18.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="767.0" y="67.0" achars="(,f" style="fill:black;font-family:helvetica;font-size:10.0px;">(</text>
+    </g>
+    <g>
+     <rect x="773.0" y="49.0" width="9.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="773.0" y="64.0" achars="9,g" style="fill:black;font-family:helvetica;font-size:10.0px;">9</text>
+    </g>
+    <g>
+     <rect x="784.0" y="49.0" width="9.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="784.0" y="64.0" achars="5" style="fill:black;font-family:helvetica;font-size:10.0px;">5</text>
+    </g>
+    <g>
+     <rect x="795.0" y="49.0" width="6.0" height="8.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="795.0" y="57.0" achars="0,&quot;" style="fill:black;font-family:helvetica;font-size:10.0px;">0</text>
+    </g>
+    <g>
+     <rect x="798.0" y="49.0" width="9.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="798.0" y="64.0" achars="/" style="fill:black;font-family:helvetica;font-size:10.0px;">/</text>
+    </g>
+    <g>
+     <rect x="804.0" y="56.0" width="6.0" height="8.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="804.0" y="64.0" achars="o,0" style="fill:black;font-family:helvetica;font-size:10.0px;">o</text>
+    </g>
+    <rect x="811.0" y="49.0" width="5.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="817.0" y="49.0" width="13.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="817.0" y="64.0" achars="C,G" style="fill:black;font-family:helvetica;font-size:10.0px;">C</text>
+    </g>
+    <g>
+     <rect x="832.0" y="49.0" width="2.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="832.0" y="64.0" achars="l,I,|,1" style="fill:black;font-family:helvetica;font-size:10.0px;">l</text>
+    </g>
+    <g>
+     <rect x="838.0" y="49.0" width="4.0" height="18.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="838.0" y="67.0" achars=")" style="fill:black;font-family:helvetica;font-size:10.0px;">)</text>
+    </g>
+    <rect x="843.0" y="49.0" width="8.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="863.0" y="49.0" width="8.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="891.0" y="49.0" width="5.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="917.0" y="49.0" width="3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="937.0" y="49.0" width="0.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="949.0" y="49.0" width="-2.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="954.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="956.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <rect x="957.0" y="49.0" width="-3.0" height="15.0" class="space" style="fill:none;stroke:blue;stroke-width:0.5;"/>
+    <g>
+     <rect x="955.0" y="49.0" width="18.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="955.0" y="64.0" achars="W" style="fill:black;font-family:helvetica;font-size:10.0px;">W</text>
+    </g>
+    <g>
+     <rect x="974.0" y="53.0" width="9.0" height="11.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="974.0" y="64.0" achars="e,g,i" style="fill:black;font-family:helvetica;font-size:10.0px;">e</text>
+    </g>
+    <g>
+     <rect x="985.0" y="49.0" width="2.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="985.0" y="64.0" achars="i,j" style="fill:black;font-family:helvetica;font-size:10.0px;">i</text>
+    </g>
+    <g>
+     <rect x="989.0" y="53.0" width="9.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="989.0" y="68.0" achars="g" style="fill:black;font-family:helvetica;font-size:10.0px;">g</text>
+    </g>
+    <g>
+     <rect x="1000.0" y="49.0" width="9.0" height="15.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="1000.0" y="64.0" achars="h" style="fill:black;font-family:helvetica;font-size:10.0px;">h</text>
+    </g>
+    <g>
+     <rect x="1010.0" y="50.0" width="5.0" height="14.0" class="text" style="fill:none;stroke:red;stroke-width:0.5;"/>
+     <text x="1010.0" y="64.0" achars="t" style="fill:black;font-family:helvetica;font-size:10.0px;">t</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

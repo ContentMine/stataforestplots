@@ -1,0 +1,48 @@
+<page x="0" y="0" dx="0" dy="0">
+<block x="0" y="0" dx="0" dy="0">
+<line x="30" y="0" dx="-29" dy="0" value="0">
+ <space x="25" y="425" dx="5" dy="9" />
+ <box x="25" y="425" dx="5" dy="9" value="\" numac="3" weights="100,94,86" achars="\,1,t" />
+</line>
+<line x="25" y="26" dx="5" dy="17" value="1">
+ <space x="25" y="26" dx="5" dy="15" />
+ <box x="25" y="26" dx="5" dy="15" value="(" numac="1" weights="100" achars="(" />
+</line>
+<line x="25" y="71" dx="5" dy="16" value="2">
+ <space x="25" y="71" dx="5" dy="14" />
+ <box x="25" y="71" dx="5" dy="14" value="(" numac="2" weights="100,95" achars="(,C" />
+</line>
+<line x="25" y="115" dx="5" dy="17" value="3">
+ <space x="25" y="115" dx="5" dy="15" />
+ <box x="25" y="115" dx="5" dy="15" value="(" numac="1" weights="100" achars="(" />
+</line>
+<line x="26" y="159" dx="4" dy="17" value="4">
+ <space x="26" y="159" dx="4" dy="15" />
+ <box x="26" y="159" dx="4" dy="15" value="[" numac="4" weights="100,95,94,93" achars="[,I,C,r" />
+</line>
+<line x="26" y="204" dx="4" dy="16" value="5">
+ <space x="26" y="204" dx="4" dy="14" />
+ <box x="26" y="204" dx="4" dy="14" value="t" numac="1" weights="100" achars="t" />
+</line>
+<line x="26" y="248" dx="4" dy="17" value="6">
+ <space x="26" y="248" dx="4" dy="15" />
+ <box x="26" y="248" dx="4" dy="15" value="t" numac="1" weights="100" achars="t" />
+</line>
+<line x="26" y="292" dx="4" dy="17" value="7">
+ <space x="26" y="292" dx="4" dy="15" />
+ <box x="26" y="292" dx="4" dy="15" value="t" numac="1" weights="99" achars="t" />
+</line>
+<line x="24" y="337" dx="6" dy="16" value="8">
+ <space x="24" y="337" dx="6" dy="14" />
+ <box x="24" y="337" dx="6" dy="14" value="_" />
+</line>
+<line x="24" y="381" dx="6" dy="17" value="9">
+ <space x="24" y="381" dx="6" dy="15" />
+ <box x="24" y="381" dx="6" dy="15" value="1" numac="2" weights="97,90" achars="1,t" />
+</line>
+<line x="24" y="469" dx="6" dy="17" value="10">
+ <space x="24" y="469" dx="6" dy="15" />
+ <box x="24" y="469" dx="6" dy="15" value=")" numac="1" weights="98" achars=")" />
+</line>
+</block>
+</page>

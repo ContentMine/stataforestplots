@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="36.0" width="320.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g id="line_1_1" baseline="(0.0,50.0)" style="font-size:22.0px;" class="line">
+      <text x="282.0" y="11.0" style="font-size:7.0px;">20.0</text>
+      <rect x="282.0" y="11.0" width="28.0" height="15.0" style="fill:darkgray;opacity:0.2;"/>
+      <g class="word" id="word_1_1"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

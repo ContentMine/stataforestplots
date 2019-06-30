@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="626.0" width="1257.4" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g class="textLine">
+   <text x="61.0" y="64.0" class="text" boundingBox="((61.0,124.0),(48.0,64.0))" style="font-size:16.0px;opacity:1.0;">Barrett</text>
+   <text x="130.0" y="64.0" class="text" boundingBox="((130.0,175.0),(48.0,64.0))" style="font-size:20.8px;opacity:1.0;">2013</text>
+   <text x="897.0" y="64.0" class="text" boundingBox="((897.0,948.0),(48.0,64.0))" style="font-size:20.8px;opacity:1.0;">23.80</text>
+   <text x="954.0" y="61.0" class="text" boundingBox="((954.0,1015.0),(47.0,67.0))" style="font-size:15.4px;opacity:1.0;">(18.59,</text>
+   <text x="1021.0" y="61.0" class="text" boundingBox="((1021.0,1077.0),(47.0,67.0))" style="font-size:15.4px;opacity:1.0;">29.01)</text>
+   <text x="1236.0" y="64.0" class="text" boundingBox="((1236.0,1286.0),(48.0,64.0))" style="font-size:20.8px;opacity:1.0;">20.06</text>
+  </g>
+  <g class="textLine">
+   <text x="61.0" y="137.0" class="text" boundingBox="((61.0,120.0),(123.0,143.0))" style="font-size:15.4px;opacity:1.0;">Bergin</text>
+   <text x="127.0" y="139.0" class="text" boundingBox="((127.0,157.0),(123.0,139.0))" style="font-size:20.8px;opacity:1.0;">201</text>
+   <text x="164.0" y="138.0" class="text" boundingBox="((164.0,169.0),(123.0,138.0))" style="font-size:19.5px;opacity:1.0;">1</text>
+   <text x="897.0" y="139.0" class="text" boundingBox="((897.0,961.0),(123.0,139.0))" style="font-size:20.8px;opacity:1.0;">—40.00</text>
+   <text x="968.0" y="135.3" class="text" boundingBox="((968.0,1042.0),(122.0,141.0))" style="font-size:14.6px;opacity:1.0;">(—49.70,</text>
+   <text x="1048.0" y="135.3" class="text" boundingBox="((1048.0,1118.0),(122.0,141.0))" style="font-size:14.6px;opacity:1.0;">—30.30)</text>
+   <text x="1237.0" y="139.0" class="text" boundingBox="((1237.0,1286.0),(123.0,139.0))" style="font-size:20.8px;opacity:1.0;">19.28</text>
+  </g>
+  <g class="textLine">
+   <text x="60.0" y="211.4" class="text" boundingBox="((60.0,121.0),(196.0,218.0))" style="font-size:16.9px;opacity:1.0;">Cheng</text>
+   <text x="128.0" y="214.0" class="text" boundingBox="((128.0,173.0),(198.0,214.0))" style="font-size:20.8px;opacity:1.0;">2017</text>
+   <text x="897.0" y="214.0" class="text" boundingBox="((897.0,947.0),(198.0,214.0))" style="font-size:20.8px;opacity:1.0;">25.00</text>
+   <text x="954.0" y="211.0" class="text" boundingBox="((954.0,1015.0),(197.0,217.0))" style="font-size:15.4px;opacity:1.0;">(20.73/</text>
+   <text x="1021.0" y="211.0" class="text" boundingBox="((1021.0,1077.0),(197.0,217.0))" style="font-size:15.4px;opacity:1.0;">29.27)</text>
+   <text x="1236.0" y="214.0" class="text" boundingBox="((1236.0,1286.0),(198.0,214.0))" style="font-size:20.8px;opacity:1.0;">20.17</text>
+  </g>
+  <g class="textLine">
+   <text x="60.0" y="286.7" class="text" boundingBox="((60.0,120.0),(272.0,293.0))" style="font-size:16.2px;opacity:1.0;">Zhang</text>
+   <text x="127.0" y="289.0" class="text" boundingBox="((127.0,172.0),(273.0,289.0))" style="font-size:20.8px;opacity:1.0;">2006</text>
+   <text x="897.0" y="289.0" class="text" boundingBox="((897.0,949.0),(273.0,289.0))" style="font-size:20.8px;opacity:1.0;">—9.20</text>
+   <text x="956.0" y="285.3" class="text" boundingBox="((956.0,1031.0),(272.0,291.0))" style="font-size:14.6px;opacity:1.0;">(—12.23,</text>
+   <text x="1037.0" y="285.3" class="text" boundingBox="((1037.0,1095.0),(272.0,291.0))" style="font-size:14.6px;opacity:1.0;">—6.17)</text>
+   <text x="1236.0" y="288.0" class="text" boundingBox="((1236.0,1286.0),(273.0,288.0))" style="font-size:19.5px;opacity:1.0;">20.28</text>
+  </g>
+  <g class="textLine">
+   <text x="60.0" y="363.0" class="text" boundingBox="((60.0,108.0),(346.0,363.0))" style="font-size:17.0px;opacity:1.0;">Zhao</text>
+   <text x="114.0" y="363.0" class="text" boundingBox="((114.0,159.0),(347.0,363.0))" style="font-size:20.8px;opacity:1.0;">2017</text>
+   <text x="899.0" y="360.0" class="text" boundingBox="((899.0,1077.0),(346.0,366.0))" style="font-size:15.4px;opacity:1.0;">17.78(14.01,21.55)</text>
+   <text x="1236.0" y="363.0" class="text" boundingBox="((1236.0,1286.0),(347.0,363.0))" style="font-size:20.8px;opacity:1.0;">20.22</text>
+  </g>
+  <g class="textLine">
+   <text x="60.0" y="438.0" class="text" boundingBox="((60.0,125.0),(421.0,438.0))" style="font-size:17.0px;opacity:1.0;">Overall</text>
+   <text x="138.0" y="436.4" class="text" boundingBox="((138.0,238.0),(421.0,443.0))" style="font-size:16.9px;opacity:1.0;">(I—squared</text>
+   <text x="245.0" y="435.0" class="text" boundingBox="((245.0,257.0),(429.0,435.0))" style="font-size:7.8px;opacity:1.0;">:</text>
+   <text x="264.0" y="441.0" class="text" boundingBox="((264.0,325.0),(422.0,441.0))" style="font-size:24.7px;opacity:1.0;">98.8%,</text>
+   <text x="332.0" y="437.2" class="text" boundingBox="((332.0,343.0),(426.0,442.0))" style="font-size:12.3px;opacity:1.0;">p</text>
+   <text x="349.0" y="435.0" class="text" boundingBox="((349.0,361.0),(429.0,435.0))" style="font-size:7.8px;opacity:1.0;">:</text>
+   <text x="368.0" y="435.3" class="text" boundingBox="((368.0,424.0),(422.0,441.0))" style="font-size:14.6px;opacity:1.0;">0.000)</text>
+   <text x="897.0" y="438.0" class="text" boundingBox="((897.0,935.0),(423.0,438.0))" style="font-size:19.5px;opacity:1.0;">3.83</text>
+   <text x="943.0" y="435.3" class="text" boundingBox="((943.0,1017.0),(422.0,441.0))" style="font-size:14.6px;opacity:1.0;">(—14.39,</text>
+   <text x="1023.0" y="435.0" class="text" boundingBox="((1023.0,1079.0),(421.0,441.0))" style="font-size:15.4px;opacity:1.0;">22.06)</text>
+   <text x="1237.0" y="438.0" class="text" boundingBox="((1237.0,1298.0),(422.0,438.0))" style="font-size:20.8px;opacity:1.0;">100.00</text>
+  </g>
+  <g class="textLine">
+   <text x="72.0" y="505.0" class="text" boundingBox="((72.0,183.0),(481.0,505.0))" style="font-size:24.0px;opacity:1.0;">P=0.680</text>
+  </g>
+  <g class="textLine">
+   <text x="61.0" y="550.0" class="text" boundingBox="((61.0,117.0),(534.0,550.0))" style="font-size:16.0px;opacity:1.0;">NOTE:</text>
+   <text x="123.0" y="548.4" class="text" boundingBox="((123.0,200.0),(533.0,555.0))" style="font-size:16.9px;opacity:1.0;">Weights</text>
+   <text x="206.0" y="550.0" class="text" boundingBox="((206.0,235.0),(538.0,550.0))" style="font-size:15.6px;opacity:1.0;">are</text>
+   <text x="240.0" y="550.0" class="text" boundingBox="((240.0,285.0),(533.0,550.0))" style="font-size:17.0px;opacity:1.0;">from</text>
+   <text x="292.0" y="550.0" class="text" boundingBox="((292.0,365.0),(533.0,550.0))" style="font-size:17.0px;opacity:1.0;">random</text>
+   <text x="372.0" y="550.0" class="text" boundingBox="((372.0,434.0),(533.0,550.0))" style="font-size:17.0px;opacity:1.0;">effects</text>
+   <text x="440.0" y="548.4" class="text" boundingBox="((440.0,513.0),(533.0,555.0))" style="font-size:16.9px;opacity:1.0;">analysis</text>
+  </g>
+  <g class="textLine">
+   <text x="454.0" y="616.0" class="text" boundingBox="((454.0,507.0),(601.0,616.0))" style="font-size:19.5px;opacity:1.0;">—49.7</text>
+   <text x="862.0" y="616.0" class="text" boundingBox="((862.0,902.0),(601.0,616.0))" style="font-size:19.5px;opacity:1.0;">49.7</text>
+  </g>
+ </g>
+</svg>

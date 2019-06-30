@@ -1,0 +1,14 @@
+<page x="0" y="0" dx="0" dy="0">
+<block x="0" y="0" dx="0" dy="0">
+<line x="62" y="0" dx="-61" dy="0" value="0">
+ <space x="59" y="333" dx="3" dy="2" />
+ <box x="59" y="333" dx="3" dy="2" value="_" />
+ <box x="59" y="425" dx="3" dy="3" value="_" />
+ <box x="60" y="229" dx="2" dy="13" value="_" numac="4" weights="93,92,84,56" achars="|,l,1,I" />
+ <box x="60" y="276" dx="2" dy="12" value="_" numac="4" weights="94,92,76,54" achars="|,l,1,I" />
+ <box x="60" y="322" dx="2" dy="6" value="l" numac="5" weights="97,95,92,89,88" achars="l,(,I,r,1" />
+ <box x="60" y="368" dx="2" dy="14" value="_" numac="4" weights="92,92,80,53" achars="l,|,1,I" />
+ <box x="60" y="415" dx="2" dy="6" value="(" numac="2" weights="97,88" achars="(,1" />
+</line>
+</block>
+</page>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="50.0" width="852.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g class="line" id="line_1_1"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_2">
+    <g class="para" id="par_1_2">
+     <g id="line_1_2" baseline="(0.0,-1.0)" style="font-size:23.0px;" class="line">
+      <text x="204.0" y="24.0" style="font-size:7.0px;">20.7</text>
+      <rect x="204.0" y="24.0" width="638.0" height="16.0" style="fill:darkgray;opacity:0.2;"/>
+      <g id="word_1_2" class="word" x_wconf="81">
+       <rect x="204.0" y="24.0" width="60.0" height="16.0" style="fill:green;opacity:0.2;"/>
+       <text x="204.0" y="40.0" class="text" style="font-size:20.8px;">.00414</text>
+      </g>
+      <g id="word_1_3" class="word" x_wconf="88">
+       <rect x="526.0" y="24.0" width="6.0" height="16.0" style="fill:green;opacity:0.2;"/>
+       <text x="526.0" y="40.0" class="text" style="font-size:20.8px;font-style:bold;">1</text>
+      </g>
+      <g id="word_1_4" class="word" x_wconf="82">
+       <rect x="809.0" y="24.0" width="33.0" height="16.0" style="fill:green;opacity:0.2;"/>
+       <text x="809.0" y="40.0" class="text" style="font-size:20.8px;">242</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
