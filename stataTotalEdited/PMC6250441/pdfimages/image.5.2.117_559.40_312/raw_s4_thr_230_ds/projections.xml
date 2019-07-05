@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projections cTree="PMC6250441" imageDir="image.5.2.117_559.40_312" basename="raw_s4_thr_230_ds">
+ <xcoords>
+  <xcoord min="3" max="4"/>
+  <xcoord min="283" max="284"/>
+  <xcoord min="588" max="589"/>
+  <xcoord min="893" max="894"/>
+  <xcoord min="1222" max="1224"/>
+ </xcoords>
+ <ycoords>
+  <ycoord min="3" max="4"/>
+  <ycoord min="704" max="706"/>
+ </ycoords>
+ <g class="verticallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="3.0" y1="3.0" x2="3.0" y2="706.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="283.0" y1="8.0" x2="283.0" y2="256.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="283.0" y1="263.0" x2="283.0" y2="383.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="283.0" y1="392.0" x2="283.0" y2="701.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="283.0" y1="705.0" x2="283.0" y2="717.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="588.0" y1="8.0" x2="588.0" y2="210.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="588.0" y1="212.0" x2="588.0" y2="717.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="893.0" y1="4.0" x2="893.0" y2="701.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="893.0" y1="705.0" x2="893.0" y2="717.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="1222.0" y1="3.0" x2="1222.0" y2="706.0" style="stroke:blue;stroke-width:3.0;"/>
+ </g>
+ <g class="horizontallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="3.0" y1="3.0" x2="282.0" y2="3.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="284.0" y1="3.0" x2="587.0" y2="3.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="589.0" y1="3.0" x2="1223.0" y2="3.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="3.0" y1="704.0" x2="1223.0" y2="704.0" style="stroke:red;stroke-width:3.0;"/>
+ </g>
+ <subImage>
+  <x min="3" max="4"/>
+  <x min="283" max="284"/>
+  <x min="587" max="588"/>
+  <x min="893" max="894"/>
+  <x min="1222" max="1224"/>
+  <y min="0" max="0"/>
+ </subImage>
+</projections>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="929.0" width="1279.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g class="horizontallines">
+   <line x1="45.0" y1="162.0" x2="1267.0" y2="162.0" style="stroke:red;stroke-width:2.0;"/>
+   <line x1="44.0" y1="904.0" x2="1269.0" y2="904.0" style="stroke:red;stroke-width:3.0;"/>
+   <line x1="48.0" y1="908.0" x2="143.0" y2="908.0" style="stroke:red;stroke-width:1.0;"/>
+   <line x1="160.0" y1="908.0" x2="367.0" y2="908.0" style="stroke:red;stroke-width:1.0;"/>
+   <line x1="398.0" y1="908.0" x2="679.0" y2="908.0" style="stroke:red;stroke-width:1.0;"/>
+   <line x1="688.0" y1="908.0" x2="975.0" y2="908.0" style="stroke:red;stroke-width:1.0;"/>
+   <line x1="992.0" y1="908.0" x2="1267.0" y2="908.0" style="stroke:red;stroke-width:1.0;"/>
+  </g>
+  <g class="verticallines">
+   <line x1="682.0" y1="162.0" x2="682.0" y2="919.0" style="stroke:blue;stroke-width:3.0;"/>
+  </g>
+ </g>
+</svg>

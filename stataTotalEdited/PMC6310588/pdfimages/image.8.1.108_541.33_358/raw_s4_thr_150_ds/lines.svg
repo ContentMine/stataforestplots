@@ -2,7 +2,6 @@
 <svg height="902.0" width="1201.0" xmlns="http://www.w3.org/2000/svg">
  <g>
   <g class="horizontallines">
-   <line x1="240.0" y1="720.0" x2="627.0" y2="720.0" style="stroke:red;stroke-width:2.0;"/>
    <line x1="10.0" y1="853.0" x2="1191.0" y2="853.0" style="stroke:red;stroke-width:3.0;"/>
   </g>
   <g class="verticallines">

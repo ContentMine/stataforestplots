@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template xmlns:svg="http://www.w3.org/2000/svg">
+<message>y1[] y2[] gl[1417] gr[]</message>
+<image extension="png" borders="NaN NaN" sections="header body scale" split="horizontal" source="raw.png">
+<image extension="png" borders="1417 " sections="ltable graph rtable" split="vertical" source="raw.body.png"/>
+</image>
+</template>

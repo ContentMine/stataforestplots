@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="775.0" width="1286.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g class="horizontallines">
+   <line x1="3.0" y1="4.0" x2="1275.0" y2="4.0" style="stroke:red;stroke-width:2.0;"/>
+   <line x1="3.0" y1="750.0" x2="1276.0" y2="750.0" style="stroke:red;stroke-width:3.0;"/>
+  </g>
+  <g class="verticallines">
+   <line x1="4.0" y1="4.0" x2="4.0" y2="753.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="310.0" y1="4.0" x2="310.0" y2="346.0" style="stroke:blue;stroke-width:3.0;"/>
+   <line x1="310.0" y1="348.0" x2="310.0" y2="612.0" style="stroke:blue;stroke-width:3.0;"/>
+   <line x1="310.0" y1="614.0" x2="310.0" y2="747.0" style="stroke:blue;stroke-width:3.0;"/>
+   <line x1="310.0" y1="749.0" x2="310.0" y2="765.0" style="stroke:blue;stroke-width:3.0;"/>
+   <line x1="629.0" y1="7.0" x2="629.0" y2="765.0" style="stroke:blue;stroke-width:3.0;"/>
+   <line x1="946.0" y1="7.0" x2="946.0" y2="748.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="946.0" y1="751.0" x2="946.0" y2="765.0" style="stroke:blue;stroke-width:2.0;"/>
+   <line x1="1274.0" y1="4.0" x2="1274.0" y2="753.0" style="stroke:blue;stroke-width:2.0;"/>
+  </g>
+ </g>
+</svg>

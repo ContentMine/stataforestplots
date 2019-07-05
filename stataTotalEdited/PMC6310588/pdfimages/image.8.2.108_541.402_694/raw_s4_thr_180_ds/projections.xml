@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projections cTree="PMC6310588" imageDir="image.8.2.108_541.402_694" basename="raw_s4_thr_180_ds">
+ <xcoords>
+  <xcoord min="525" max="527"/>
+ </xcoords>
+ <ycoords>
+  <ycoord min="760" max="761"/>
+ </ycoords>
+ <g class="verticallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="525.0" y1="181.0" x2="525.0" y2="773.0" style="stroke:blue;stroke-width:3.0;"/>
+  <line x1="525.0" y1="784.0" x2="525.0" y2="799.0" style="stroke:blue;stroke-width:3.0;"/>
+ </g>
+ <g class="horizontallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="7.0" y1="760.0" x2="1190.0" y2="760.0" style="stroke:red;stroke-width:2.0;"/>
+ </g>
+ <subImage>
+  <x min="229" max="231"/>
+  <x min="525" max="527"/>
+  <x min="821" max="822"/>
+  <y min="0" max="0"/>
+ </subImage>
+</projections>

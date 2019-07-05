@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projections cTree="PMC6127950" imageDir="image.9.1.127_468.104_330" basename="raw_s4_thr_230_ds">
+ <xcoords>
+  <xcoord min="2" max="2"/>
+  <xcoord min="41" max="41"/>
+  <xcoord min="1387" max="1387"/>
+  <xcoord min="1418" max="1418"/>
+ </xcoords>
+ <ycoords>
+  <ycoord min="1" max="1"/>
+  <ycoord min="49" max="49"/>
+  <ycoord min="308" max="308"/>
+  <ycoord min="841" max="843"/>
+  <ycoord min="845" max="845"/>
+  <ycoord min="939" max="939"/>
+ </ycoords>
+ <g class="verticallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="2.0" y1="7.0" x2="2.0" y2="935.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="41.0" y1="56.0" x2="41.0" y2="306.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="41.0" y1="310.0" x2="41.0" y2="840.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="1387.0" y1="56.0" x2="1387.0" y2="303.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="1387.0" y1="310.0" x2="1387.0" y2="840.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="1418.0" y1="5.0" x2="1418.0" y2="939.0" style="stroke:blue;stroke-width:1.0;"/>
+ </g>
+ <g class="horizontallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="5.0" y1="1.0" x2="1415.0" y2="1.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="48.0" y1="49.0" x2="1383.0" y2="49.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="40.0" y1="308.0" x2="1385.0" y2="308.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="43.0" y1="841.0" x2="1385.0" y2="841.0" style="stroke:red;stroke-width:3.0;"/>
+  <line x1="49.0" y1="845.0" x2="486.0" y2="845.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="496.0" y1="845.0" x2="614.0" y2="845.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="625.0" y1="845.0" x2="687.0" y2="845.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="696.0" y1="845.0" x2="886.0" y2="845.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="905.0" y1="845.0" x2="1382.0" y2="845.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="1.0" y1="939.0" x2="1415.0" y2="939.0" style="stroke:red;stroke-width:1.0;"/>
+ </g>
+ <subImage>
+  <x min="2" max="2"/>
+  <x min="1418" max="1418"/>
+  <y min="0" max="0"/>
+ </subImage>
+</projections>

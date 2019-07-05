@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <template xmlns:svg="http://www.w3.org/2000/svg">
-<image extension="png" borders="163 907" sections="header body scale" split="horizontal" source="raw.png">
-<image extension="png" borders="378 989" sections="ltable graph rtable" split="vertical" source="raw.body.png"/>
+<image extension="png" borders="163 438 454" sections="header body ticks scale" split="horizontal" source="raw.png">
+<image extension="png" borders="377 988.5" sections="ltable graph rtable" split="vertical" source="raw.ticks.png"/>
 </image>
 </template>

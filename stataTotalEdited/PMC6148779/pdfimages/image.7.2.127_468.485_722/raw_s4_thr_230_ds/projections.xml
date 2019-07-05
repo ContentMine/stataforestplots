@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projections cTree="PMC6148779" imageDir="image.7.2.127_468.485_722" basename="raw_s4_thr_230_ds">
+ <xcoords>
+  <xcoord min="1" max="2"/>
+  <xcoord min="43" max="43"/>
+  <xcoord min="706" max="707"/>
+  <xcoord min="1385" max="1386"/>
+ </xcoords>
+ <ycoords>
+  <ycoord min="2" max="2"/>
+  <ycoord min="47" max="47"/>
+  <ycoord min="295" max="296"/>
+  <ycoord min="883" max="884"/>
+  <ycoord min="887" max="887"/>
+  <ycoord min="987" max="987"/>
+ </ycoords>
+ <g class="verticallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="1.0" y1="8.0" x2="1.0" y2="985.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="43.0" y1="48.0" x2="43.0" y2="287.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="43.0" y1="304.0" x2="43.0" y2="879.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="706.0" y1="295.0" x2="706.0" y2="500.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="706.0" y1="515.0" x2="706.0" y2="897.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="1385.0" y1="48.0" x2="1385.0" y2="881.0" style="stroke:blue;stroke-width:2.0;"/>
+ </g>
+ <g class="horizontallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="9.0" y1="2.0" x2="1414.0" y2="2.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="45.0" y1="47.0" x2="1384.0" y2="47.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="45.0" y1="295.0" x2="1383.0" y2="295.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="45.0" y1="883.0" x2="1383.0" y2="883.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="48.0" y1="887.0" x2="503.0" y2="887.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="512.0" y1="887.0" x2="703.0" y2="887.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="720.0" y1="887.0" x2="903.0" y2="887.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="912.0" y1="887.0" x2="1383.0" y2="887.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="1.0" y1="987.0" x2="1417.0" y2="987.0" style="stroke:red;stroke-width:1.0;"/>
+ </g>
+ <subImage>
+  <x min="1" max="2"/>
+  <y min="0" max="0"/>
+ </subImage>
+</projections>

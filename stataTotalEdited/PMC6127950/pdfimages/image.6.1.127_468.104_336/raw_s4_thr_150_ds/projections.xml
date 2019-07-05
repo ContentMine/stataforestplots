@@ -12,8 +12,9 @@
   <line x1="44.0" y1="863.0" x2="1384.0" y2="863.0" style="stroke:red;stroke-width:2.0;"/>
  </g>
  <subImage>
+  <x min="474" max="475"/>
   <x min="675" max="676"/>
-  <x min="742" max="742"/>
+  <x min="876" max="877"/>
   <y min="0" max="0"/>
  </subImage>
 </projections>

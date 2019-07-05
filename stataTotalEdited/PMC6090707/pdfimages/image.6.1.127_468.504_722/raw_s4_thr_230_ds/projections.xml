@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projections cTree="PMC6090707" imageDir="image.6.1.127_468.504_722" basename="raw_s4_thr_230_ds">
+ <xcoords>
+  <xcoord min="2" max="2"/>
+  <xcoord min="13" max="13"/>
+  <xcoord min="689" max="690"/>
+  <xcoord min="1401" max="1401"/>
+  <xcoord min="1417" max="1417"/>
+ </xcoords>
+ <ycoords>
+  <ycoord min="2" max="2"/>
+  <ycoord min="17" max="17"/>
+  <ycoord min="291" max="292"/>
+  <ycoord min="855" max="856"/>
+  <ycoord min="908" max="908"/>
+ </ycoords>
+ <g class="verticallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="2.0" y1="8.0" x2="2.0" y2="903.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="13.0" y1="24.0" x2="13.0" y2="849.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="689.0" y1="291.0" x2="689.0" y2="347.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="689.0" y1="349.0" x2="689.0" y2="360.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="689.0" y1="365.0" x2="689.0" y2="869.0" style="stroke:blue;stroke-width:2.0;"/>
+  <line x1="1401.0" y1="24.0" x2="1401.0" y2="855.0" style="stroke:blue;stroke-width:1.0;"/>
+  <line x1="1417.0" y1="6.0" x2="1417.0" y2="905.0" style="stroke:blue;stroke-width:1.0;"/>
+ </g>
+ <g class="horizontallines" xmlns="http://www.w3.org/2000/svg">
+  <line x1="8.0" y1="2.0" x2="1414.0" y2="2.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="16.0" y1="17.0" x2="1399.0" y2="17.0" style="stroke:red;stroke-width:1.0;"/>
+  <line x1="16.0" y1="291.0" x2="1399.0" y2="291.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="16.0" y1="855.0" x2="1399.0" y2="855.0" style="stroke:red;stroke-width:2.0;"/>
+  <line x1="1.0" y1="908.0" x2="1417.0" y2="908.0" style="stroke:red;stroke-width:1.0;"/>
+ </g>
+ <subImage>
+  <x min="1417" max="1417"/>
+  <y min="0" max="0"/>
+ </subImage>
+</projections>

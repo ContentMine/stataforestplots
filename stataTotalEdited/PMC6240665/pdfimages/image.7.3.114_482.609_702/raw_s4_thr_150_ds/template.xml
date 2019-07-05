@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <template xmlns:svg="http://www.w3.org/2000/svg">
-<image extension="png" borders="NaN NaN" sections="header body scale" split="horizontal" source="raw.png">
+<message>y1 74.0 y2 330.0 gl 482 gr 1357</message>
+<image extension="png" borders="75 331" sections="header body scale" split="horizontal" source="raw.png">
 <image extension="png" borders="482 1357" sections="ltable graph rtable" split="vertical" source="raw.body.png"/>
 </image>
 </template>

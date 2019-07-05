@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg height="835.0" width="1394.0" xmlns="http://www.w3.org/2000/svg">
+<svg height="848.0" width="1394.0" xmlns="http://www.w3.org/2000/svg">
  <g>
   <g class="horizontallines">
    <line x1="45.0" y1="287.0" x2="639.0" y2="287.0" style="stroke:red;stroke-width:1.0;"/>
    <line x1="647.0" y1="287.0" x2="1384.0" y2="287.0" style="stroke:red;stroke-width:1.0;"/>
    <line x1="44.0" y1="825.0" x2="1384.0" y2="825.0" style="stroke:red;stroke-width:2.0;"/>
   </g>
-  <g class="verticallines"/>
+  <g class="verticallines">
+   <line x1="645.0" y1="288.0" x2="645.0" y2="838.0" style="stroke:blue;stroke-width:2.0;"/>
+  </g>
  </g>
 </svg>

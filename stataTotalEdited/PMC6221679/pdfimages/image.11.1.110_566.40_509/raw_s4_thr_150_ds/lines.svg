@@ -2,11 +2,6 @@
 <svg height="1311.0" width="1276.0" xmlns="http://www.w3.org/2000/svg">
  <g>
   <g class="horizontallines">
-   <line x1="24.0" y1="729.0" x2="36.0" y2="729.0" style="stroke:red;stroke-width:1.0;"/>
-   <line x1="484.0" y1="729.0" x2="818.0" y2="729.0" style="stroke:red;stroke-width:1.0;"/>
-   <line x1="971.0" y1="729.0" x2="983.0" y2="729.0" style="stroke:red;stroke-width:1.0;"/>
-   <line x1="1076.0" y1="729.0" x2="1087.0" y2="729.0" style="stroke:red;stroke-width:1.0;"/>
-   <line x1="1092.0" y1="729.0" x2="1103.0" y2="729.0" style="stroke:red;stroke-width:1.0;"/>
    <line x1="1.0" y1="1251.0" x2="1266.0" y2="1251.0" style="stroke:red;stroke-width:3.0;"/>
   </g>
   <g class="verticallines">
